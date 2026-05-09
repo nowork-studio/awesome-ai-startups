@@ -20,7 +20,7 @@
 - [💬 Chatbots & Conversational](#chatbots-conversational) (4)
 - [👥 Social & Community](#social-community) (4)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (52)
+- [✨ Everything Else](#everything-else) (77)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -493,6 +493,31 @@
 - [Mailero](https://mailero.com) - Most helpdesks are overkill.
 - [StampCut](https://www.stampcutapp.com) - The world is full of stamps.
 - [GeneratePPT](https://www.generateppt.com) - The anti bloat presentation tool.
+- [Donely](https://donely.ai) - Deploy OpenClaw-powered AI employees with a shared Company Brain, multi-agent collaboration, observability, AI Repair, backup inference, & isolated infrastructure built for long-running reliability.
+- [Kipps AI](https://www.kipps.ai) - Kipps.AI is your all-in-one AI assistant for marketing, sales, and customer support. Build AI agents that capture leads, qualify prospects, answer customers, and automate workflows—without complex….
+- [SuperIsland](https://dynamicisland.app) - Dynamic Island brings iOS-style live activities to macOS.
+- [Operations](https://operations.studionope.nl) - Most new tab extensions show you the weather.
+- [Sutra](https://www.heysutra.com) - Manufacturing engineers spend hours pushing changes through PLM systems.
+- [KushoAI](https://kusho.ai) - KushoAI transforms your inputs into a comprehensive ready-to-run test suite.
+- [Contral](https://contral.ai) - Contral is the agent that teaches you while you build.
+- [Fluent Frame](https://podclips.pro) - You're shipping 3 updates a week, but marketing each feature eats hours of your time - or thousands of dollars at an agency.
+- [kuku](https://kuku.mom) - Kuku is a truly native, local-first markdown editor for macOS — built with Tauri, not Electron.
+- [Fabraix](https://fabraix.com) - AI agents fail in ways traditional software doesn't.
+- [GitHired](https://www.githired.tech) - GitHired lets you create autonomous hiring forms that instantly rank your applicants based on what they've actually built, not what they say they can build.
+- [Flare](https://heyflare.app) - Flare is an AI-native voice-first social app for Gen Z.
+- [RankSpot](https://www.rankspot.ai) - RankSpot is your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google.
+- [How AI-pilled are you?](https://www.ai-pilled.com) - The P9 AI Fluency Index gives you an explainable grade in ~12 minutes, along with clear recommendations on how to reach the next level.
+- [ClawTick](https://clawtick.com) - ClawTick is a cloud scheduler built specifically for AI agents.
+- [Staff.rip](https://staff.rip) - Use AI anywhere in your codebase — frontend, backend, microservices, infra.
+- [ZapDigits](https://www.zapdigits.com) - ZapDigits is a modern marketing dashboard and White-Label client reporting platform built for agencies, freelancers, and marketing teams that want clear insights without complexity.
+- [Pop](https://getpop.chat) - Pop makes voice notes first class in everyday messaging.
+- [Ghost](https://useghost.sh) - Open-source dedicated game server platform.
+- [Manuscripts.app](https://manuscripts-app.com) - Manuscripts is a Mac app for academics who've outgrown the spreadsheet.
+- [Omi A11Y](https://omi-a11y.pages.dev) - Omi A11Y is a free Chrome extension that scans any webpage for WCAG 2.1 A and AA violations right in your browser. No sign-up, no build pipeline changes, just click the extension and instantly see….
+- [Nylas](http://www.nylas.com) - Nylas is the API that lets you integrate with Gmail, Microsoft, IMAP, Zoom, and 250+ mail, calendar and meeting providers in 5 minutes.
+- [Prism](https://tryprism.com) - Most recruiting agencies start with who they already know.
+- [BugDrop](https://bugdrop.dev) - Free, open source website feedback widget.
+- [Inrō](https://www.inro.social/ph) - Inrō handles your Instagram DMs like a human would.
 
 ## Contributing
 

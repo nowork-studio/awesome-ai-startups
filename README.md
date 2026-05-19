@@ -380,6 +380,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Krea](https://www.krea.ai) - KREA is a website where you can use AI to make images and videos.
 - [ReactVision Studio](https://reactvision.xyz/studio) - A browser-based visual editor for building AR & VR scenes.
 
+- [LandscapioAI](https://www.landscapioai.com) - Turn yard and garden photos into AI landscape design concepts and cost-aware makeover ideas.
+
 ## ✍️ Writing & Content
 
 - [Orange Slice](https://orangeslice.ai) - Build any Go-To-Market workflow you can think of through natural language.

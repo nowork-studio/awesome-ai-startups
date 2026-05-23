@@ -514,7 +514,6 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 🔎 Search & Discovery
 
-- [AI Content Shield](https://www.aicontentshield.app) - AI Content Shield: AI Content Blocker for hiding Google AI Mode, AI Overviews, blocking AI videos, shorts & posts on YouTube, social media, and the web. Private, on-device, works just like your favorite ad blockers.
 - [Spine](https://getspine.ai) - Spine is a visual workspace for managing and deploying swarms of AI agents that can complete complex tasks from start to finish.
 - [Happenstance](https://happenstance.ai) - Happenstance lets you search across Gmail, Twitter, Instagram, and more using natural language.
 - [Panels Store](https://panels.store) - Panels Store is a DRM-free digital comics marketplace built by the team behind Panels, the iOS and Mac comic reader used by hundreds of.
@@ -525,6 +524,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WhoAmILookingFor](https://www.whoamilookingfor.com) - WhoAmILookingFor turns your LinkedIn connection CSVs into a private semantic search engine.
 - [pixserp](https://pixserp.com/ph) - pixserp is the AI-native search engine for builders.
 - [Re](http://re.yomeshgupta.com) - Re is a Recommendation Engine which uses advanced machine learning techniques to curate a tailor made list of things that users might like.
+- [AI Content Shield](https://www.aicontentshield.app) - AI Content Shield: AI Content Blocker for hiding Google AI Mode, AI Overviews, blocking AI videos, shorts & posts on YouTube, social media, and the web. Private, on-device, works just like your favorite ad blockers.
 
 ## 🎓 Education & Learning
 

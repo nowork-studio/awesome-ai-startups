@@ -600,6 +600,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reader Alive](https://readeralive.pages.dev) - Reader Alive is an AI-powered ebook reader for iPhone and iPad.
 - [The Incident Challenge](https://theincidentchallenge.com) - Compete in realistic incident simulations where you find the root cause, fix the system, and race the leaderboard.
 - [LangPanda](https://langpanda.com) - LangPanda helps you learn 36 languages by watching your favorite shows.
+- [QuizVerse](https://quizverse.world) - AI-powered adaptive exam prep platform covering 23 standardized tests (SAT, NEET, JEE, GMAT, GRE, MCAT, IELTS, AP, IB) with a multilingual AI tutor in 12 languages.
 
 ## 🩺 Health, Fitness & Wellness
 

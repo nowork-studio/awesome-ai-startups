@@ -639,6 +639,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vela Partners](https://vela.partners) - Leading quant VC: Turning art into science through AI.
 - [Fere AI](https://www.fereai.xyz) - Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows.
 - [Robinhood](http://robinhood.com) - Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
+- [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets — ask anything about any NSE or BSE stock and get instant, analyst-grade answers with screening, financials, and FII/DII flows.
 
 ## 🛠 APIs, SDKs & Infrastructure
 

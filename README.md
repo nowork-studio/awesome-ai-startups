@@ -407,6 +407,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Layers](https://www.newcreative.studio/layers) - Layers is a free web-based tool that empowers anyone to create beautiful, animated code snippet videos.
 - [Stage](https://usestage.app) - Record your product walkthrough with screen, camera, audio, cursor, and keystrokes all in sync.
 - [Clipline](https://t.me/clipline_bot) - Clipline is an AI-powered Telegram bot that turns any long video (YouTube, file) into short, engaging clips in 90 seconds.
+- [ZOOOP](https://zooop.ai) - ZOOOP is an AI-native filmmaking workstation for generating image, video, audio, and lip-sync from a single generative canvas.
 
 ## 🎨 Image, Design & 3D
 

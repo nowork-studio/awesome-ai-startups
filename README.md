@@ -607,6 +607,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Angel Match](https://www.angelmatch.io) - Angel Match is a database of 125k+ investors that frees you from tedious process of searching for the right investors for your startup.🌟 We’ve compiled investor names, investment focuses, past….
 - [Clipto](https://clipto.com/?via=producthunt) - Like Google Photos, but fully local.
 - [Stella](https://trystella.co) - You know the file exists.
+- [1mil.app](https://1mil.app) - Enter a topic and your role to get ranked business opportunities with competitor pricing, evidence, and next steps.
 
 ## 🎓 Education & Learning
 

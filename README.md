@@ -20,7 +20,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🎓 Education & Learning](#education-learning) (12)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (9)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (45)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (46)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
@@ -698,6 +698,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stepfun](https://www.stepfun.com) - StepFun is a frontier AI platform building powerful, actionable intelligence with the Step series of models.
 - [OpenStatus](https://www.openstatus.dev) - OpenStatus is an open-source uptime and synthetic monitoring platform.
 - [Tokenwise](https://tokenwisehq.com) - Tokenwise is a one-line LLM proxy (OpenAI-compatible baseURL) for makers and small teams.
+- [CoderPlan](https://coderplan.ai) - OpenAI-compatible LLM API gateway for developers — Claude, GPT, Gemini, DeepSeek via one endpoint with Alipay and WeChat Pay.
 
 ## 💬 Chatbots & Conversational
 

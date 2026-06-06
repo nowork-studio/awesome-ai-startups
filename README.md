@@ -699,6 +699,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Robinhood](http://robinhood.com) - Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
 - [Co-Invest](https://coinvest.ai) - Co-Invest by Liquid lets you research and place real trades inside ChatGPT or Claude.
 - [Leni](https://leni.co) - Leni is the most accurate and verifiable AI for serious investment work.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed trust receipts for AI agents, settled in <1s.
 
 ## 🛠 APIs, SDKs & Infrastructure
 

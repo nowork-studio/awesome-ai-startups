@@ -381,6 +381,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Revyl](https://revyl.com) - Revyl gives mobile teams full observability into how their app actually behaves on live cloud devices.
 - [Stride](https://www.stride.page) - Stride is the AI-native workspace for the whole build: plan, design, verify, and ship.
 - [GitHits beta 0.9](https://githits.com) - GitHits gives coding agents access to the open-source code your app depends on.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted Roblox Studio GUI planner for ScreenGui layouts, UI hierarchy, and Lua starter code.
 
 ## 🎙 Audio, Voice & Music
 

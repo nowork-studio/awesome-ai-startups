@@ -976,6 +976,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Permute](http://software.charliemonroe.net/permute) - A powerful yet easy-to-use media converter for macOS.
 - [Wobo AI](https://www.wobo.ai) - Meet Wobo: Your AI-powered job search assistant.
 - [Plansera AI](https://plansera.ai) - An AI E-2 Visa Agent interviews, reads their evidence (bank statements, leases, invoices), checks the core E-2 eligibility standards, and produces a submission-ready plan with real 5-year….
+- [AI Fake-Landing Checkup](https://github.com/ruiflow-team/ai-fake-landing-checkup) - Free self-audit checklist for indie founders and small teams to spot fake AI landing risks before spending money.
 
 ## Contributing
 

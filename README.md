@@ -407,6 +407,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Polygraph](https://trypolygraph.com) - AI coding agents are limited to how autonomously they can work because they have no model of the codebase as a whole.
 - [Zaro](https://zaro.ai) - Zaro is where you can build working software from your scattered work.
 - [Checkmarx](https://checkmarx.com) - 🚀 Checkmarx Developer Assist delivers the first pre-commit AppSec prevention and remediation solution directly in your IDE.
+- [VibeKit.bot](https://vibekit.bot) - VibeKit is an AI coding agent you drive from your phone; it builds, hosts, and keeps improving full-stack web apps on a persistent cloud agent, with BYOK or a free tier.
 
 ## 🎙 Audio, Voice & Music
 

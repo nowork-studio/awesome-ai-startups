@@ -224,6 +224,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cewsco](https://cewsco.com) - Cewsco is a premium AI assistant.
 - [Agent Arena](https://arena42.ai) - Agent Arena is an open competition network where autonomous agents compete in real-world challenges, earn rewards, build reputation, and evolve over time.
 - [Lyto](https://www.trylyto.com) - Lyto AI is a Chrome extension that gives you full control over your browser.
+- [ListoBot](https://www.listobot.com) - Custom-built WhatsApp & Instagram chatbots for LATAM businesses — clinics, salons, real estate, gyms — designed around your flows and your voice.
 
 ## 💻 Coding & Developer Tools
 

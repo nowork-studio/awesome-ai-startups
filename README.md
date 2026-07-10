@@ -1008,6 +1008,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Context.dev](https://context.dev) - Context.dev gives your AI agents and apps real-time access to structured web data, no brittle scraping infrastructure needed. Scrape any URL as clean markdown or HTML, extract brand data (logos,….
 - [LongCat](https://longcat.chat) - LongCat is the AI model series from Meituan, featuring powerful, efficient, and open-source models for complex tasks.
 - [Link Preview API](https://exabase.io/tools/link-preview) - Completely free.
+- [AI Router](https://ai-router.dev) - AI Router is an OpenAI-compatible ChatGPT API relay for developers, with API keys, usage visibility, daily/weekly plans, and staged 20U onboarding for quick testing.
 - [Constellation Gate AI](https://constellationgate.ai) - Point your AI agent at Gate.
 - [Coasty](https://coasty.ai) - Most agent infrastructure runs workloads in shared environments, one compromised agent affects everything else.
 - [Opper AI](https://opper.ai) - One API key to 300+ models, hosted in the EU.

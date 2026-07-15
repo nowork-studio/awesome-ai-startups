@@ -465,6 +465,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NoMac.app](https://nomac.app) - The native app publishing pipeline built for AI agents: build signed iOS releases to validate your code, push to TestFlight ot see preview on your iPhone in minutes, and submit to the App Store….
 - [BugShot](https://bug-shot.com) - Catch a bug and file a complete report from Chrome's side panel.
 - [Portero](https://porteroapp.pages.dev) - Portero is a free, open source Mac app that shows every open port and the process behind it.
+- [Agent Island](https://agent-island.dev) - Open-source status companion for Claude Code and Codex with live session state and your-turn alerts on macOS and Windows.
 
 ## 🎙 Audio, Voice & Music
 

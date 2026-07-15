@@ -742,6 +742,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Samepage Signals](https://www.samepage.ai) - Built specifically for the best product leaders, Samepage Signals automatically surfaces the information and insights that are most important to you across all of your tools and web, in one place.
 - [Nanonets](http://www.nanonets.com) - Nanonets is an AI-driven solution that automates document processing and data extraction workflows.
 - [Mira](https://entropik.io/platform/ai-moderator) - Unlike AI tools that stop at interview + transcript, Mira is a full AI researcher — plans studies, recruits globally (100M+ panel, 120 countries), runs dynamic interviews with intelligent probing,….
+- [Review2Idea](https://review2idea.com) - Turns public App Store and Google Play reviews into clustered pain points and product opportunity hypotheses for founders.
 
 ## 🗂 Productivity & Notes
 

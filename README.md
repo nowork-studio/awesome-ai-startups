@@ -130,6 +130,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Trovio For Brands](https://brands.gotrovio.com) - A nurse on hour ten of her shift sells your protein bar better than any athlete.
 - [ACME.BOT](https://acme.bot) - ACME.BOT turns your expertise into no slop SEO articles. Answer a few questions on a topic (from your phone) and your first-hand experience shapes your blog post. AI handles the boring stuff. Like….
 - [Migma AI](https://migma.ai) - Migma creates email campaigns before you ask.
+- [LLM Pulse](https://llmpulse.ai) - All-in-one AI search platform that tracks your brand's visibility, mentions and citations across ChatGPT, Perplexity, Gemini and Google AI Overviews, and measures the traffic AI drives.
 
 ## 🤖 AI Agents & Assistants
 

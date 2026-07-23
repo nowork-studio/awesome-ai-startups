@@ -561,6 +561,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Backbeat Forge](https://hannes-software.com/backbeat-forge) - Drop in a full mix or an isolated drum stem.
 - [PieceKeeper](https://getpiecekeeper.com) - Never lose track of a piece again.
 - [Bolna](https://www.bolna.ai) - Bolna is a Voice AI Platform purpose-built for enterprise scale, diverse linguistic complexity, and cost sensitivity.
+- [echo99](https://www.echo99.app/) - Private Mac call recorder with on-device transcription and speaker labeling.
 
 ## 🎬 Video & Animation
 

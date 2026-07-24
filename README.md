@@ -9,7 +9,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (103)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (144)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (219)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (221)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (62)
 - [🎬 Video & Animation](#video-animation) (50)
 - [🎨 Image, Design & 3D](#image-design-3d) (67)
@@ -501,6 +501,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentManager](https://agentmgr.app) - A floating macOS window for every Claude Code session.
 - [OpenCode Superapp](https://opencodesuper.app) - OpenCode Superapp brings the agentic power of Codex to the models and infrastructure you choose.
 - [AskCodi](https://askcodi.com) - AskCodi orchestrates AI coding, two ways.
+- [nWave](https://nwave.ai) - AI agents that guide you from idea to working code, with you in control at every step.
 
 ## 🎙 Audio, Voice & Music
 

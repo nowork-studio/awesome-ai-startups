@@ -585,6 +585,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Liso](https://www.getliso.app) - Highlight any article, newsletter, blog post, or page on the internet.
 - [Speechius](https://speechius.com) - Speechius listens to your voice and scrolls your script for you - speed up, slow down, go off-script, it keeps pace.
 - [Heard](https://heard.dev) - Heard is a macOS voice layer for your agentic workflows.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for small businesses handling calls, appointment booking, and lead capture 24/7.
 
 ## 🎬 Video & Animation
 

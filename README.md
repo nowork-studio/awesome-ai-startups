@@ -983,6 +983,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Phantom](https://www.heyphantom.app) - Phantom is a voice-first AI agent for macOS that is always accessible via the Mac notch.
 - [FlowTask](https://flowtask.work) - FlowTask is a Company Brain for AI agents.
 - [Hardbook](https://hard-book.com) - The gap between agreed dates and a signed contract is where freelance jobs die.
+- [Gpt](https://trygrokai.asia/) - AI tool for productivity, content workflows, research, and daily work.
+
 
 ## 🔎 Search & Discovery
 

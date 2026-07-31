@@ -532,6 +532,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Prelint](https://prelint.com) - AI writes your code at 10× speed.
 - [tablo](https://tablo-cat.netlify.app) - You kick off an AI agent, switch tabs, and forget it's stuck or 90% through its context window.
 - [SKI](https://heyski.io) - We just built SKI — voice coding for Claude Code, Codex and more.
+- [Agent Approval Inbox](https://github.com/stomeonst/agent-approval-inbox-preview) - A local-first macOS approval inbox for AI agents, scripts, and automations, with persistent action cards and append-only audit logs.
 
 ## 🎙 Audio, Voice & Music
 

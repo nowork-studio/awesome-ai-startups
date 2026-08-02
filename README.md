@@ -763,6 +763,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Knowzilla](https://knowzilla.eu/en/promo-landing-producthunt) - Knowzilla gives sales teams real-time answers during live calls, so they can handle tough questions, overcome objections, and stop losing.
 - [Mac Pet](https://mac-pet.com) - Transform your menu bar — or MacBook notch — into a cozy home for an adorable pixel pet that helps you stay focused.
 - [Bouquin & Ink](https://www.bouquinandink.com) - Bouquin & Ink is a manuscript editor built for writers.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [Riffly](https://tryriffly.app) - Riffly is an AI presentation builder you talk to instead of click through.
 - [Prosed](https://tryprosed.com) - You've spent years creating—newsletters, podcasts, LinkedIn posts, courses.
 - [WordPress 7.0](https://wordpress.org/download/releases/7.0) - WordPress 7.0 marks the start of a new era, laying the foundation for AI across the WordPress experience. Greeting you with a modern, more intuitive dashboard, 7.0 introduces enhanced….

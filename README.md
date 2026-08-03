@@ -1408,6 +1408,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tandem](https://tandemspace.com) - Tandem is building an AI-native office leasing brokerage.
 - [Yamanote 3D](https://yamanote-3d.com) - Yamanote 3D is a free browser experience inspired by Tokyo’s Yamanote Line.
 
+## 🛠 APIs, SDKs & Infrastructure
+
+- [Nitro Translate](https://nitrotranslate.com) — Human translation API. AI agents can autonomously call and pay for translations via the Machine Payments Protocol (MPP).
+
 ## Contributing
 
 See [contributing.md](contributing.md) for guidelines on submitting a startup.

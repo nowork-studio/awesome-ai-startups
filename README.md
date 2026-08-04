@@ -1422,6 +1422,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hand Wave](https://handwave.sh) - Hand Wave turns sign language into text and speech using the camera on Meta smart glasses.
 - [Plethora](https://plethora.studio) - Plethora is a platform for interactive content: a feed where micro-experiences live.
 
+## 🛠 APIs, SDKs & Infrastructure
+
+- [Nitro Translate](https://nitrotranslate.com) — Human translation API. AI agents can autonomously call and pay for translations via the Machine Payments Protocol (MPP).
+
 ## Contributing
 
 See [contributing.md](contributing.md) for guidelines on submitting a startup.

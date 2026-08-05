@@ -621,6 +621,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [gesture.live](https://gesture.live) - Play live electronic music with your hands over a webcam.
 - [yapyap](https://yap-yap.app) - Every meeting recorder ships your audio to the cloud and bills you monthly.
 - [SpeakoFlow](https://speakoflow.com) - SpeakoFlow puts your voice over your whole desktop.
+- [DigDeeper.fm](https://digdeeper.fm/) - Uses a machine learning model to find similar electronic music tracks based on audio instead of tags or metadata.
 
 ## 🎬 Video & Animation
 

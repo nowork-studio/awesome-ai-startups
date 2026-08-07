@@ -1335,6 +1335,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [YourSitee](https://yoursit.ee) - YourSitee turns your scattered online presence into one visual page that feels like you, not another list of buttons.
 - [Snipplet](https://snipplet.com) - Most travel tools help you plan trips.
 - [hey postcard - digital postcards](https://heypostcard.com) - Hey Postcard is a slow messaging app for people who matter.
+- [Autoposting](https://autoposting.ai) - Autoposting writes social posts in your own voice, clips your long videos, and schedules everything to X, LinkedIn, Instagram, Threads and YouTube.
 
 ## 🛒 E-commerce & Retail
 

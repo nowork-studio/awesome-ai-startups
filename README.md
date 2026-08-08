@@ -692,6 +692,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Capptivo](https://capptivo.com) - Capptivo is a free, open-source screen recorder and demo editor for macOS, Windows, and Linux.
 - [PassiveShorts](https://passiveshorts.com) - AI faceless video generator that auto-posts to YouTube and TikTok.
 - [Screen Awesome](https://screenawesome.com) - Every screen recorder promises not to misuse your recordings.
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Preview real-time AI face swapping, outfit changes, and style restyling in a browser, then use the Windows client for virtual-camera output in compatible apps.
 
 ## 🎨 Image, Design & 3D
 

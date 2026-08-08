@@ -1305,6 +1305,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Progress AI Observability](https://www.telerik.com/ai-observability-platform) - Debug and monitor AI agent failures in minutes.
 - [Toolport](https://toolport.app) - Your agent got slower the more MCP servers you added, and it's not the model.
 - [Bevel](https://www.bevel.software) - We're building the infrastructure for deploying AI agents in enterprises.
+- [LLM Price Watch](https://llmpricewatch.com) - Free API and calculator for live LLM pricing, with an AI-driven recommendation endpoint for picking the right model by use case.
 
 ## 💬 Chatbots & Conversational
 

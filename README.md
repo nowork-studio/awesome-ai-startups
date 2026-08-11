@@ -1323,6 +1323,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bevel](https://www.bevel.software) - We're building the infrastructure for deploying AI agents in enterprises.
 - [Proxy Tester by ScrapeOps](https://scrapeops.io/proxy-providers/tester/) - ScrapeOps Proxy Tester is a technical benchmarking platform for developers, scraping teams, data providers, SaaS companies, and AI agents selecting proxy infrastructure.
 - [Prime Intellect](https://www.primeintellect.ai) - We're excited to announce our compute platform for aggregating and orchestrating global GPU resources.
+- [ReadGZH](https://readgzh.site) - An AI-ready reader and API gateway that turns WeChat Official Account articles into clean, citeable Markdown.
 
 ## 💬 Chatbots & Conversational
 

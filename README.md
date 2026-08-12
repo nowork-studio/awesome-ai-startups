@@ -142,6 +142,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [UCP Radar](https://ucpradar.com) - Your titles and descriptions were probably never written to Google's spec.
 - [The GTM Co-Founder](https://gtmcofounder.com) - Most AI hands dev-tool founders the same generic sales and marketing advice.
 - [Conference Grid](https://conferencegrid.com) - Look up any company and see every conference it sponsors, exhibits at, or speaks at — 6,000+ conferences, 62,000 speakers, 55,000 sponsor slots in one graph.
+- [Mentioned](https://mentioned.to) - Mentioned is a done-for-you Reddit growth service that finds the threads ranking on Google for your keywords and publishes native posts and comments in them.
 
 ## 🤖 AI Agents & Assistants
 

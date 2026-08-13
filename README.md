@@ -796,6 +796,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MascotAI](https://www.appmascot.ai) - Hey hunters!.
 - [Ctruh Studio](https://www.ctruh.com/products/studio) - Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites.
 - [SVG Editor - Vector Designer](https://www.vectordesigner.info) - SVG Editor - Vector Designer is a native vector graphics editor for Mac.
+- [voxelyo](https://voxelyo.com) - AI photo enhancement for Airbnb, Vrbo, and real estate listing photos, including auto-enhance and virtual twilight conversion.
 
 ## ✍️ Writing & Content
 

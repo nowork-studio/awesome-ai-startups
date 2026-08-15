@@ -587,6 +587,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hoplite](https://hoplite.sh) - Hoplite deploys your local coding agent setup to the cloud, no reconfiguration needed.
 - [Munder Difflin](https://munderdiffl.in) - [Open-Source] Local Multi Agent Harness that wraps around coding agents you already pay for like Claude Code and Codex to run an office of forever running agents working for you 24/7 in "the….
 - [Freebuff](https://freebuff.com) - Freebuff is a free coding agent that gives you access to the best open source models.
+- [Canopy](https://canopy.8starlabs.com) - Canopy turns your stack into a living map for developers and AI agents, with architecture context, dependencies, costs, and exports.
 
 ## 🎙 Audio, Voice & Music
 

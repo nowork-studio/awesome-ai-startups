@@ -1163,6 +1163,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Click](https://useclick.ai) - Click is an MCP that provides extensive research connectors to give external context that the built-in web search misses.
 - [WebBrain](https://webbrain.one) - Your browser, your models, your data.
 - [Zetik](https://www.zetik.com) - Presidents and CEOs get strategy teams.
+- [IdeaHunter](https://ideahunter.today) - IdeaHunter helps solo founders find demand-backed app and micro-SaaS ideas using public signals, buyer pain, market evidence, MVP scope, and monetization paths.
 
 ## 🎓 Education & Learning
 

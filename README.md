@@ -736,6 +736,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Qencode](https://cloud.qencode.com) - Qencode is a cloud video services provider that offers video transcoding, live streaming, media storage, content delivery and many other video APIs.
 - [Openmotion](https://openmotion.design) - OpenMotion is a free macOS motion-design studio for founders, designers, and developers.
 - [isolate.video](https://isolate.video) - Turn screen recordings into polished product videos with automatic motion zoom, AI music, and spotlight effects.
+- [videos.social](https://videos.social/?utm_source=nowork-studio-awesome-ai-startups&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into editable faceless videos.
 
 ## 🎨 Image, Design & 3D
 

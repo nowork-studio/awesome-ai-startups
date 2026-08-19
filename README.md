@@ -677,6 +677,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Voice Gecko](https://www.voicegecko.dev) - Instant dictation for desktop.
 - [Dograh](https://dograh.com) - Closed voice platforms make you rent your own agents.
 - [Suno](https://suno.com) - Suno is building a future where anyone can make great music.
+- [Hermes](https://buildwithhermes.com) - White-label platform for AI voice agencies to deploy, manage, and bill phone agents under their own brand.
 
 ## 🎬 Video & Animation
 

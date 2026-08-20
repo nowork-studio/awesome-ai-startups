@@ -148,6 +148,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Outcome](https://www.outcomeapp.ai) - Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead.
 - [Clara AI SDR](https://clarasdr.ai) - Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time.
 - [Astute](https://company-app.joinastute.com) - Astute is the first B2B new media platform, starting with creator partnerships.
+- [AdMapix](https://www.admapix.com) - AdMapix is an AI-native advertising intelligence platform for researching competitor ad creatives and comparing patterns across games, AI apps, and ecommerce.
 
 ## 🤖 AI Agents & Assistants
 

@@ -980,6 +980,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supernova](https://supernova.ai) - Supernova connects your startup’s live data to Claude and Codex, so anyone can ask questions, investigate performance, and run complex analysis in the AI tools they already use.
 - [Open Analytics](https://getopen.so) - Open Analytics is an open-source, privacy-first alternative to Google Analytics, built for humans and AI agents.
 - [Toplify](https://toplify.app) - Toplify is a multi server service monitoring App Store charts across 175 countries, 24/7, so you never miss your next milestone.
+- [Intellrise](https://intellrise.com) - Learns what your fields mean once and reuses it on later questions, then returns charts, dashboards and exportable reports; bring your own AI key.
 
 ## 🗂 Productivity & Notes
 

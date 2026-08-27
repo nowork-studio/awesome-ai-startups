@@ -1507,6 +1507,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [KerasFormers](https://imvision12.github.io/KerasFormers/) - Pretrained transformer models in pure Keras 3, runnable on JAX, PyTorch and TensorFlow.
 - [Cortex by SKYNETLAB](https://skynetlab-cortex.com) - Hosted semantic memory your AI connects to over MCP.
 - [MCP-Builder.ai](https://mcp-builder.ai) - Build a hosted and secured MCP Server in minutes.
+- [Consensus Room](https://consensusroom.com) - Multiple LLMs debate your question and produce a consensus-scored synthesis, with a Code Review API for coding agents.
 
 ## 💬 Chatbots & Conversational
 

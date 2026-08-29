@@ -1533,6 +1533,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MCP-Builder.ai](https://mcp-builder.ai) - Build a hosted and secured MCP Server in minutes.
 - [Traccia](https://traccia.ai) - Traccia is a vendor-neutral AI Agent Control Plane built for teams running autonomous agents in production.
 - [Aramb](https://aramb.ai) - Aramb is the operating system for AI agents.
+- [SandBase](https://sandbase.ai) - SandBase provides a local MCP gateway and CLI for discovering and running AI models through one API.
 
 ## 💬 Chatbots & Conversational
 

@@ -1234,6 +1234,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SuperIntern](https://superintern.ai) - SuperIntern is a 24/7 AI email and meeting assistant inside your daily chat apps—like Telegram, WhatsApp, WeChat, Slack, and Discord.
 - [Almanac](https://usealmanac.com) - Almanac is an AI agent that knows your company.
 - [Caddi](https://trycaddi.com) - Caddi turns narrated screenshares into production agents that run back-office work across your real tools.
+- [ResuMakeAi](https://www.resumakeai.com) - ResuMakeAi scores resumes against ATS rules, rewrites them with AI, and matches job seekers to live job openings.
 
 ## 🔎 Search & Discovery
 

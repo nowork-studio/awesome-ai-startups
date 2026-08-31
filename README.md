@@ -1633,6 +1633,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Basement Browser](https://basementbrowser.com/app) - Basement is a browser whose job is shopping.
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Your storefront is a static site on GitHub Pages.
 - [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
+- [Flatzer](https://flatzer.com/en) - Flatzer is ecommerce software.
 
 ## ✨ Everything Else
 

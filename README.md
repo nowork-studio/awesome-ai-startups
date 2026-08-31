@@ -16,7 +16,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [✍️ Writing & Content](#writing-content) (56)
 - [📊 Analytics & Data](#analytics-data) (82)
 - [🗂 Productivity & Notes](#productivity-notes) (218)
-- [🔎 Search & Discovery](#search-discovery) (42)
+- [🔎 Search & Discovery](#search-discovery) (43)
 - [🎓 Education & Learning](#education-learning) (33)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
@@ -1298,6 +1298,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pluto](https://talentpluto.com) - Pluto is an AI voice agent that learns your story in 10 minutes and makes you discoverable to the right people and AI agents.
 - [Lenz](https://lenz.io) - Lenz is an AI fact-checking API for products that cannot afford to hallucinate.
 - [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
+- [WizeGorilla](https://wizegorilla.com) - WizeGorilla is an AI broker finder that matches traders to brokers and prop firms using withdrawal-tested data from 87 accounts funded with real money.
 
 ## 🎓 Education & Learning
 

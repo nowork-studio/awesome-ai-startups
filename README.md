@@ -21,7 +21,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (135)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (30)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (31)
 - [👥 Social & Community](#social-community) (21)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
 - [✨ Everything Else](#everything-else) (112)
@@ -1601,6 +1601,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Peach Co-Pilot](https://trypeach.ai/co-pilot) - The hosted WhatsApp MCP server for standard WhatsApp Business App users.
 - [ify](https://useify.ai) - Most AI support tools ask you to rip out your helpdesk first.
 - [Ojin](https://ojin.ai) - Human AI Agents have a real face and a real voice, and run live conversation rather than turn-based exchange.
+- [RizzMaster](https://rizzmaster.net) - AI dating simulator for iOS: swipe, match, and text AI characters who remember you, while a relationship meter moves on every message and characters can ghost or block you for good.
 
 ## 👥 Social & Community
 

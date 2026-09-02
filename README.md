@@ -21,7 +21,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (38)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (154)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (34)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (35)
 - [👥 Social & Community](#social-community) (28)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
 - [✨ Everything Else](#everything-else) (126)
@@ -1795,6 +1795,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Switch](https://www.flintai.dev/products/switch) - Switch brings AI agents into the collaboration tools your team already uses.
 - [ChatHop](https://chathop.tech) - Move your AI conversation to another assistant mid-thought, context included.
 - [ProductBridge](https://productbridge.io) - Most teams run a helpdesk, a feedback board and a survey tool, then copy between them all week.
+- [RizzMaster](https://rizzmaster.net) - AI dating simulator for iOS: swipe, match, and text AI characters who remember you, while a relationship meter moves on every message and characters can ghost or block you for good.
 
 ## 👥 Social & Community
 

@@ -1306,6 +1306,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lenz](https://lenz.io) - Lenz is an AI fact-checking API for products that cannot afford to hallucinate.
 - [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
 - [Particle News](https://particle.news) - It should be easier to understand what’s happening, so why does keeping up with the news feel like work?.
+- [Grok Bot Templates](https://gtemplate.net) - Curated directory for discovering public Grok Bots by use case.
 
 ## 🎓 Education & Learning
 

@@ -901,6 +901,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Doop](https://doop.design) - Doop is an infinite multiplayer canvas where AI agents design beside you.
 - [Stitch AI by Dynamic Mockups](https://dynamicmockups.com/stitch/) - Stitch reads your artwork the way a professional digitizer would - planning stitch direction, density, and pull compensation region by region.
 - [CleanShot](https://getcleanshot.com) - Discover a superior way to capture your Mac's screen with built-in annotation and amazing Quick Access Overlay.
+- [Lunalisa](https://luna-lisa.art) - AI creative workspace for product photos, marketing posters, and image-to-video across 13 image and 22 video models.
 
 ## ✍️ Writing & Content
 

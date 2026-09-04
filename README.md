@@ -20,7 +20,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🎓 Education & Learning](#education-learning) (35)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (139)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (140)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
 - [👥 Social & Community](#social-community) (21)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
@@ -1595,6 +1595,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dial](https://getdial.ai) - Your agent can deploy in seconds but cannot get a phone number.
 - [ARBR](https://projectarbr.org) - AI stacks are getting more complex with more models, providers, costs, and decisions.
 - [Fillo](https://fillo.so) - Build forms into your product with your coding agent.
+- [XiuRouter](https://router.xiu.ai/) - One API for leading AI models with four native protocols, scoped keys, per-request usage and cost records, and selected routes that can save 90%+.
 
 ## 💬 Chatbots & Conversational
 

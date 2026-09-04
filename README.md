@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (129)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (130)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (184)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (306)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (308)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (88)
-- [🎬 Video & Animation](#video-animation) (71)
+- [🎬 Video & Animation](#video-animation) (72)
 - [🎨 Image, Design & 3D](#image-design-3d) (86)
 - [✍️ Writing & Content](#writing-content) (58)
-- [📊 Analytics & Data](#analytics-data) (84)
-- [🗂 Productivity & Notes](#productivity-notes) (221)
+- [📊 Analytics & Data](#analytics-data) (85)
+- [🗂 Productivity & Notes](#productivity-notes) (224)
 - [🔎 Search & Discovery](#search-discovery) (43)
-- [🎓 Education & Learning](#education-learning) (35)
+- [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (139)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (30)
-- [👥 Social & Community](#social-community) (21)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (31)
+- [👥 Social & Community](#social-community) (22)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
 - [✨ Everything Else](#everything-else) (112)
 
@@ -157,6 +157,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BrandJet AI](https://brandjet.ai) - BrandJet is the mission control for outreach and brand intelligence.
 - [Articos](https://www.articos.com) - Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP.
 - [Nex](https://nex.ai) - Nex builds and runs the complex, high-volume GTM workflows that general-purpose agents struggle with.
+- [UGCad AI - #1 AI UGC Video Ad Generator](https://ugcad.ai) - UGCad AI is an AI UGC video generator that creates marketing videos without a camera, creator, or editing skills.
 
 ## 🤖 AI Agents & Assistants
 
@@ -654,6 +655,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CodeLook](https://codelook.app) - A Quick Look extension for macOS.
 - [Grove](https://grove.publishstudio.one) - Grove is an AI-native macOS script runner designed to unify your terminal experience with your AI coding agent.
 - [Blume.codes](https://blume.codes) - Blume watches your coding agent sessions locally and turns what it learns into better agent context.
+- [Clockwork](https://vimoxshah.github.io/clockwork/) - Book AI coding agents on a real calendar.
+- [sidebranch](https://sidebranch.dev) - Review PRs from inside your running app: switch branches from an in-page widget and compare worktrees side by side.
 
 ## 🎙 Audio, Voice & Music
 
@@ -819,6 +822,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FrameOS](https://tryframeos.com) - Record iPhone, iPad and Android app demos on your Mac.
 - [Higgsfield](https://higgsfield.ai) - The ultimate AI-powered camera control for creators by creators.
 - [Atlas by World Labs](https://www.worldlabs.ai/blog/atlas) - Atlas is World Labs' omni world model.
+- [VPlayed](https://www.vplayed.com) - VPlayed is an AI-powered video streaming platform that enables content owners, production houses, media platforms, and other businesses to build a full-fledged OTT solution within just days.
 
 ## 🎨 Image, Design & 3D
 
@@ -1058,6 +1062,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Olostep](https://www.olostep.com) - Extract, crawl and structure web data at scale with Olostep's Web Data API.
 - [StackScope](https://stackscope.dev) - See which sites started using Stripe, Shopify or Next.js this week. Most of what we index we find ourselves: over 2.2+ million sites from public infrastructure signals, not submitted to us, across….
 - [Userlens](https://userlens.io) - Userlens helps SaaS teams turn product behavior into timely, personal guidance.
+- [TrackMCP](https://www.trackmcp.com) - TrackMCP shows who is using your MCP server, what they are trying to do, whether the work gets done, and where to improve.
 
 ## 🗂 Productivity & Notes
 
@@ -1282,6 +1287,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RoundOS](https://roundos.ai/launch) - Stop paying for basic infrastructure.
 - [Tabbit AI](https://www.tabbit.ai) - Tabbit is the AI browser that knows what you’re working on and can get the work done for you.
 - [Omi](https://omi.me) - Omi is a 2nd brain you trust more than your first.
+- [Chalked](https://usechalked.com) - Chalked prepares the reply you would actually send from the thread on screen, your live calendar and sourced facts you have accepted before.
+- [Snitch](https://snitchforslack.com) - Snitch asks everyone in your Slack one question, who do you report to, and builds the org chart from the answers.
+- [Excelerator Password 2.0](https://apps.apple.com/us/app/excelerator-password/id6804012537) - Excelerator Password is a Mac utility for people who regularly work with password-protected Excel files.
 
 ## 🔎 Search & Discovery
 
@@ -1367,6 +1375,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [God’s Eye View](https://maptheworld.ai) - Mapped the world at Google.
 - [Orato](https://orato.tepoyan.com) - Pick a drill, speak for 30 to 90 seconds, and get scored on pacing, fluency, vocabulary and coherence.
 - [Readr](https://readr-ai.github.io) - Readr is an ebook reader you can talk to.
+- [myAIcademy](https://www.myaicademy.com) - myAIcademy builds personalized AI training around your role, goals, and the tools you actually use.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1628,6 +1637,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Peach Co-Pilot](https://trypeach.ai/co-pilot) - The hosted WhatsApp MCP server for standard WhatsApp Business App users.
 - [ify](https://useify.ai) - Most AI support tools ask you to rip out your helpdesk first.
 - [Ojin](https://ojin.ai) - Human AI Agents have a real face and a real voice, and run live conversation rather than turn-based exchange.
+- [Inline](https://inline.chat) - Inline is a thread-based chat app for all work, with your team and agents.
 
 ## 👥 Social & Community
 
@@ -1652,6 +1662,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [8PM SOCIAL](https://www.8pm.social) - 8PM Social is a new social network from Europe built to bring social media back to real connections with real friends.
 - [publicdesktop.lol](https://publicdesktop.lol) - Buy a permanent $10 icon location on the internet's public computer, or bid to control its public song.
 - [RIP MY BUILD](https://www.ripmybuild.com) - RIP MY BUILD is a side project cemetery for honest public postmortems.
+- [cmmnts](https://cmmnts.in) - Adding comments to your website shouldn’t require building a comment system from scratch.
 
 ## 🛒 E-commerce & Retail
 

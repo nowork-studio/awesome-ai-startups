@@ -23,7 +23,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (139)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
 - [👥 Social & Community](#social-community) (21)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (15)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (16)
 - [✨ Everything Else](#everything-else) (112)
 
 ## 📣 Marketing, SEO & Sales
@@ -1670,6 +1670,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Your storefront is a static site on GitHub Pages.
 - [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
 - [Ask My Wardrobe](https://askmywardrobe.com) - Ask My Wardrobe is an AI outfit generator and outfit planner that makes it easier to get dressed, plan better looks, and shop with more confidence.
+- [XiuStore](https://store.xiu.ai/en/) - XiuStore is a marketplace for AI subscriptions and digital services, with buyer-visible delivery, warranty, and after-sales details.
 
 ## ✨ Everything Else
 

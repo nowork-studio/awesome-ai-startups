@@ -9,22 +9,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (130)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (184)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (308)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (312)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (88)
-- [🎬 Video & Animation](#video-animation) (72)
-- [🎨 Image, Design & 3D](#image-design-3d) (86)
+- [🎬 Video & Animation](#video-animation) (73)
+- [🎨 Image, Design & 3D](#image-design-3d) (87)
 - [✍️ Writing & Content](#writing-content) (58)
 - [📊 Analytics & Data](#analytics-data) (85)
-- [🗂 Productivity & Notes](#productivity-notes) (224)
+- [🗂 Productivity & Notes](#productivity-notes) (225)
 - [🔎 Search & Discovery](#search-discovery) (43)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (139)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (141)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (31)
-- [👥 Social & Community](#social-community) (22)
+- [👥 Social & Community](#social-community) (23)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
-- [✨ Everything Else](#everything-else) (112)
+- [✨ Everything Else](#everything-else) (113)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -657,6 +657,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Blume.codes](https://blume.codes) - Blume watches your coding agent sessions locally and turns what it learns into better agent context.
 - [Clockwork](https://vimoxshah.github.io/clockwork/) - Book AI coding agents on a real calendar.
 - [sidebranch](https://sidebranch.dev) - Review PRs from inside your running app: switch branches from an in-page widget and compare worktrees side by side.
+- [GitWarren](https://gitwarren.com) - It’s a local, PR-like code review app that works directly with your working tree.
+- [Hyperprobe](https://hyperprobe.co) - HyperProbe is how backend teams debug production issues they can't reproduce locally.
+- [Ponytail](https://ponytail.dev) - Ponytail is a plugin that makes coding agents write the least code that works.
+- [dif.sh](https://www.dif.sh) - Open source feature flags as markdown files in your repo: the flag, the reason, the decision in one file, reviewed in a PR.
 
 ## 🎙 Audio, Voice & Music
 
@@ -823,6 +827,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Higgsfield](https://higgsfield.ai) - The ultimate AI-powered camera control for creators by creators.
 - [Atlas by World Labs](https://www.worldlabs.ai/blog/atlas) - Atlas is World Labs' omni world model.
 - [VPlayed](https://www.vplayed.com) - VPlayed is an AI-powered video streaming platform that enables content owners, production houses, media platforms, and other businesses to build a full-fledged OTT solution within just days.
+- [Retold](https://stories-retold.com) - Record a memory or import an old voice note.
 
 ## 🎨 Image, Design & 3D
 
@@ -913,6 +918,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stitch AI by Dynamic Mockups](https://dynamicmockups.com/stitch/) - Stitch reads your artwork the way a professional digitizer would - planning stitch direction, density, and pull compensation region by region.
 - [CleanShot](https://getcleanshot.com) - Discover a superior way to capture your Mac's screen with built-in annotation and amazing Quick Access Overlay.
 - [Causal](https://causal.so) - Enabling designers, creators, and founders to plan visual projects on an AI canvas.
+- [BrickForgerAI](https://brickforgerai.com) - Type a prompt, get a buildable brick model.
 
 ## ✍️ Writing & Content
 
@@ -1290,6 +1296,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Chalked](https://usechalked.com) - Chalked prepares the reply you would actually send from the thread on screen, your live calendar and sourced facts you have accepted before.
 - [Snitch](https://snitchforslack.com) - Snitch asks everyone in your Slack one question, who do you report to, and builds the org chart from the answers.
 - [Excelerator Password 2.0](https://apps.apple.com/us/app/excelerator-password/id6804012537) - Excelerator Password is a Mac utility for people who regularly work with password-protected Excel files.
+- [CommuteBar](https://commute.bar) - Glance at traffic.
 
 ## 🔎 Search & Discovery
 
@@ -1604,6 +1611,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dial](https://getdial.ai) - Your agent can deploy in seconds but cannot get a phone number.
 - [ARBR](https://projectarbr.org) - AI stacks are getting more complex with more models, providers, costs, and decisions.
 - [Fillo](https://fillo.so) - Build forms into your product with your coding agent.
+- [Experiential Labs](https://www.experientiallabs.ai) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models.
+- [Reflexio](https://www.reflexio.ai) - Reflexio makes AI agents better with every interaction.
 
 ## 💬 Chatbots & Conversational
 
@@ -1663,6 +1672,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [publicdesktop.lol](https://publicdesktop.lol) - Buy a permanent $10 icon location on the internet's public computer, or bid to control its public song.
 - [RIP MY BUILD](https://www.ripmybuild.com) - RIP MY BUILD is a side project cemetery for honest public postmortems.
 - [cmmnts](https://cmmnts.in) - Adding comments to your website shouldn’t require building a comment system from scratch.
+- [PostBox](https://postbox.sh) - PostBox turns the MacBook notch into a drag and drop poster for the work you make.
 
 ## 🛒 E-commerce & Retail
 
@@ -1796,6 +1806,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [The Million Sad Ducks](https://makeaduckhappy.com) - Pan and zoom the whole world for free.
 - [Referent](https://referent.law) - Referent is AI-native legal practice management software for lawyers and law firms.
 - [Tether](https://www.playtether.app) - A ball hangs from your Mac menu bar on an elastic tether.
+- [Queuebrick](https://www.queuebrick.com) - Fast, elegant movie tracking.
 
 ## Contributing
 

@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (130)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (184)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (185)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (312)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (88)
 - [🎬 Video & Animation](#video-animation) (73)
 - [🎨 Image, Design & 3D](#image-design-3d) (87)
 - [✍️ Writing & Content](#writing-content) (58)
 - [📊 Analytics & Data](#analytics-data) (85)
-- [🗂 Productivity & Notes](#productivity-notes) (225)
-- [🔎 Search & Discovery](#search-discovery) (43)
+- [🗂 Productivity & Notes](#productivity-notes) (226)
+- [🔎 Search & Discovery](#search-discovery) (44)
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (141)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (143)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (31)
 - [👥 Social & Community](#social-community) (23)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
@@ -345,6 +345,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Touchy](https://touchyapp.com) - The AI assistant that handles it quietly, so you can stay in the moment.
 - [OpenClaw (formerly Clawdbot)](https://openclaw.ai) - OpenClaw, the AI that actually does things.
 - [MagiCrew](https://www.magicrew.ai) - MagiCrew is an open-source AI Agent platform that gives everyone their own AI workforce.
+- [Tadata](https://www.tadata.com) - Tadata is the AI employee that lives in your Slack.
 
 ## 💻 Coding & Developer Tools
 
@@ -1297,6 +1298,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Snitch](https://snitchforslack.com) - Snitch asks everyone in your Slack one question, who do you report to, and builds the org chart from the answers.
 - [Excelerator Password 2.0](https://apps.apple.com/us/app/excelerator-password/id6804012537) - Excelerator Password is a Mac utility for people who regularly work with password-protected Excel files.
 - [CommuteBar](https://commute.bar) - Glance at traffic.
+- [AI Toolbox](https://ai-toolbox.co) - Your chats live in four different sidebars, with weak search and no way to get them out.
 
 ## 🔎 Search & Discovery
 
@@ -1343,6 +1345,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lenz](https://lenz.io) - Lenz is an AI fact-checking API for products that cannot afford to hallucinate.
 - [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
 - [Particle News](https://particle.news) - It should be easier to understand what’s happening, so why does keeping up with the news feel like work?.
+- [Notify.domains](https://notify.domains) - Most people who want a specific domain name have no way to know when a real opportunity to acquire it appears.
 
 ## 🎓 Education & Learning
 
@@ -1613,6 +1616,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fillo](https://fillo.so) - Build forms into your product with your coding agent.
 - [Experiential Labs](https://www.experientiallabs.ai) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models.
 - [Reflexio](https://www.reflexio.ai) - Reflexio makes AI agents better with every interaction.
+- [Speakeasy](https://www.speakeasy.com) - The AI control plane to understand how AI is used, define what it can access, and enforce security policy across every agent, MCP server, and Skill in your enterprise.
+- [Fal.ai](https://fal.ai) - Easiest & most cost-effective way to use Gen AI.
 
 ## 💬 Chatbots & Conversational
 

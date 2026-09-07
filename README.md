@@ -1070,6 +1070,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [StackScope](https://stackscope.dev) - See which sites started using Stripe, Shopify or Next.js this week. Most of what we index we find ourselves: over 2.2+ million sites from public infrastructure signals, not submitted to us, across….
 - [Userlens](https://userlens.io) - Userlens helps SaaS teams turn product behavior into timely, personal guidance.
 - [TrackMCP](https://www.trackmcp.com) - TrackMCP shows who is using your MCP server, what they are trying to do, whether the work gets done, and where to improve.
+- [Datamagnet](https://www.datamagnet.co) - Search, enrich, and monitor live people and company data through one API.
 
 ## 🗂 Productivity & Notes
 

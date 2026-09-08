@@ -1353,6 +1353,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
 - [Particle News](https://particle.news) - It should be easier to understand what’s happening, so why does keeping up with the news feel like work?.
 - [Notify.domains](https://notify.domains) - Most people who want a specific domain name have no way to know when a real opportunity to acquire it appears.
+- [WhatAreYouBuilding.AI](https://whatareyoubuilding.ai) - Free worldwide directory of what independent builders are shipping — AI, SaaS and dev tools (by country, category, funding stage).
 
 ## 🎓 Education & Learning
 

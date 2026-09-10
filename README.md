@@ -1710,6 +1710,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [cmmnts](https://cmmnts.in) - Adding comments to your website shouldn’t require building a comment system from scratch.
 - [PostBox](https://postbox.sh) - PostBox turns the MacBook notch into a drag and drop poster for the work you make.
 - [Nametag](https://nametagai.com) - People love you when you remember their name.
+- [VibeHacker](https://vibehacker.com) - Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 ## 🛒 E-commerce & Retail
 

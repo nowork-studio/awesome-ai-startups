@@ -1883,6 +1883,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WorkID.ai](https://workid.ai) - We've rebuilt the way hiring works.
 - [DuckFightClub](https://duckfight.club) - Imagine WWE SmackDown, but with cute, AI-trained robots.
 
+## 🛠 APIs, SDKs & Infrastructure
+
+- [Nitro Translate](https://nitrotranslate.com) — Human translation API. AI agents can autonomously call and pay for translations via the Machine Payments Protocol (MPP).
+
 ## Contributing
 
 See [contributing.md](contributing.md) for guidelines on submitting a startup.

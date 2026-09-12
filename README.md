@@ -20,7 +20,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🎓 Education & Learning](#education-learning) (36)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (47)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (148)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (149)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (33)
 - [👥 Social & Community](#social-community) (25)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (16)
@@ -1691,6 +1691,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cadenya](https://www.cadenya.com) - Cadenya is not a framework you bolt into your application stack.
 - [Pascal’s Pager](https://www.pascelspages.com) - Stop writing a parser for every service.
 - [Cortex](https://cortexdocs.dev) - Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.
+- [XiuRouter](https://router.xiu.ai/) - Usage-based API access to leading models, with client setup guides and per-request costs; selected model input rates are over 90% below displayed provider-reference prices.
 
 ## 💬 Chatbots & Conversational
 

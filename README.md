@@ -1040,6 +1040,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moji](https://alexishida.com/moji) - Open Markdown like a document: fast, clean, and distraction-free.
 - [Marked Share](https://share.markedapp.com) - Marked Share is a subproduct of Marked 3, but doesn't require Marked to use.
 - [GhostWriter by MyHandler](https://myhandler.ai/ghostwriter) - Every other AI writes what you tell it.
+- [Fair Copy](https://claude.ai/artifact/8jsCLtV4c7A5tmn75hcgBC) - Tailored résumé and cover letter for one job posting: AI evaluates fit, drafts, a second pass critiques it, then a person reviews the compiled PDFs before delivery.
 
 ## 📊 Analytics & Data
 

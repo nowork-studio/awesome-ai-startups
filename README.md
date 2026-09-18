@@ -1795,6 +1795,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Switch](https://www.flintai.dev/products/switch) - Switch brings AI agents into the collaboration tools your team already uses.
 - [ChatHop](https://chathop.tech) - Move your AI conversation to another assistant mid-thought, context included.
 - [ProductBridge](https://productbridge.io) - Most teams run a helpdesk, a feedback board and a survey tool, then copy between them all week.
+- [Dom Frame](https://domframe.silentdirectivellc.com/?utm_source=awesome-ai-startups&utm_medium=resource-directory) - An AI texting coach: paste a conversation and get a read on it plus a reply you can actually send. Browser demo, also on iPhone.
 
 ## 👥 Social & Community
 

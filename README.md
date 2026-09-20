@@ -1851,6 +1851,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
 - [Ask My Wardrobe](https://askmywardrobe.com) - Ask My Wardrobe is an AI outfit generator and outfit planner that makes it easier to get dressed, plan better looks, and shop with more confidence.
 - [OpenMarket](https://openmarket.m11.ai) - What if marketplaces rewarded the best product instead of the best marketing?.
+- [ShopChief](https://shopchief.ai) - AI workspace for ecommerce product research, content creation, SEO audits, and recurring operational reports.
 
 ## ✨ Everything Else
 

@@ -835,6 +835,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Screen Studio](https://screen.studio) - Screen Studio makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and.
 - [Jupitrr AI](https://jupitrr.com) - Jupitrr AI is the all-in-one video marketing platform for businesses.
 - [VIDEO AI ME](https://videoai.me) - Create stunning AI videos with realistic actors.
+- [shortshort](https://www.shortshort.io) - Turns one long video into vertical 9:16 shorts that end on a complete sentence, framed on the speaker and captioned word by word.
 - [Odyssey](https://odyssey.world) - Odyssey is a new AI lab launching a research preview of real-time interactive video.
 - [Capso](https://www.awesomemacapp.com/app/capso) - Capso is a free, open-source screenshot and screen recording app for Mac (Apple Silicon), built entirely in Swift. ✨ Features: •.
 - [Osintir](https://osintir.com) - Osintir protects your images and videos with invisible AI fingerprints and cryptographic proof, detecting deepfakes, unauthorized use, and.

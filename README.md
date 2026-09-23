@@ -2024,6 +2024,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [citizen404](https://www.citizen404.com) - One citizen has escaped the Supreme AGI.
 - [Robot Recipes](https://robotrecipes.co) - Robot Recipes has thousands of real food recipes for humans, created by AI.
 
+## 🛠 APIs, SDKs & Infrastructure
+
+- [Nitro Translate](https://nitrotranslate.com) — Human translation API. AI agents can autonomously call and pay for translations via the Machine Payments Protocol (MPP).
+
 ## Contributing
 
 See [contributing.md](contributing.md) for guidelines on submitting a startup.

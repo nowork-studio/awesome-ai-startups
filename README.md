@@ -385,6 +385,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mycel](https://mycelai.dev) - Mycel runs the work your service business sells - clients, deliverables, approvals, invoices.
 - [Simular](https://simular.ai) - Simular is building the world’s first autonomous computers—systems that can use software like humans do.
 - [Hola AI](https://www.holavoicemail.com) - Hola AI answers calls when you can't, speaks with callers, takes messages, filters spam, and sends instant call summaries.
+- [Sumus AI](https://sumus.im/) - Like Grok Bot, but with Claude, GPT, and your friends.
 
 ## 💻 Coding & Developer Tools
 

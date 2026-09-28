@@ -1047,6 +1047,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Squints](https://squints.app) - Squints puts design tools on top of any live web page.
 - [Designeer](https://designeer.xyz) - Explore the Best of the Internet for Builders Designeer is a curated platform bringing the best of the internet together for designers, developers, and builders.
 - [PicVerb](https://ai-image-changer.com) - Free AI image changer to edit and transform photos online.
+- [Raphael AI](https://raphael.app) - Free unlimited AI image generator — text to image.
 
 ## ✍️ Writing & Content
 

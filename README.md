@@ -2094,6 +2094,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moxo AI - Hardware & Software Innovation](https://moxoai.com) - AI-powered workflow automation platform for teams using Moxo AI.
 - [10xJoy](https://10xjoy.com) - Meet Joy, your free AI business matchmaker.
 - [Kleanly](https://haidernawaz8.gumroad.com/l/tiyffv) - Kleanly lives in your MacBook's notch.
+- [Mythsensus](https://mythsensus.com) - Reads one birth date through 26 astrology and divination traditions at once and shows where they agree and where they disagree; also available to AI assistants as an MCP server.
 
 ## Contributing
 

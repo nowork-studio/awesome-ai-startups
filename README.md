@@ -199,6 +199,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Okara](https://okara.ai) - Okara is an AI CMO.
 - [SaleSmartly](https://www.salesmartly.com/en) - SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace.
 - [AIProductAds](https://aiproductads.app) - Marketing managers and online store operators can turn to AIProductAds to generate commercial video ads and product visuals.
+- [Are you found by AI?](https://areyoufoundbyai.com) - Be the business AI recommends. Track your brand across every surface your customers search, and grow your organic traffic before your competitors take it.
 
 ## 🤖 AI Agents & Assistants
 

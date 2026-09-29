@@ -1563,6 +1563,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AI Tool Finder](https://aitoolfinder.org) - AI Tool Finder helps users discover and compare free AI tools across writing, image, video, coding, and productivity use cases.
 - [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
 - [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
+- [SpotRecall](https://chromewebstore.google.com/detail/spotrecall/lfdjmifmmmimonedmclkpckjebmcabcg) - Search your browsing history by meaning or keyword with fully on-device AI.
 
 ## 🎓 Education & Learning
 

@@ -1071,6 +1071,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Imejis.io](https://www.imejis.io/agents) - Your AI agent writes the copy.
 - [Soutine Qwen Image 2.1 Prompts](https://soutine.ai/qwen-image-2-1-prompts) - Free Qwen Image 2.1 prompt examples with a copy-ready workflow for testing composition, style, and edits.
 - [Soutine Nano Banana Prompts](https://soutine.ai/banana-prompts) - 1,400+ free Nano Banana (Gemini) image prompts with real previews; browse, copy, or try them in Soutine.
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/) - Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG.
 
 ## ✍️ Writing & Content
 

@@ -1062,6 +1062,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Soutine AI](https://soutine.ai) - Soutine AI is an image and video creation workspace with large free prompt libraries.
 - [ImageSplit](https://imagesplit.net) - ImageSplit is a free online image splitter that divides any photo into equal tiles for Instagram, posters, and print.
 - [Imejis.io](https://www.imejis.io/agents) - Your AI agent writes the copy.
+- [RoomMaker AI](https://roommakerai.org) - AI room designer that redesigns a room from a photo while keeping the original layout.
 
 ## ✍️ Writing & Content
 

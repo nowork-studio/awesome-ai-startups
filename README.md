@@ -201,6 +201,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AIProductAds](https://aiproductads.app) - Marketing managers and online store operators can turn to AIProductAds to generate commercial video ads and product visuals.
 - [ZenABM](https://zenabm.com/ai) - Ditch copy-pasting into Campaign Manager!.
 - [Get-Seen.Live](https://get-seen.live) - Get-Seen.Live is a public product leaderboard where your payment determines your rank. Submit a product or X handle, choose an amount, and claim the rank that amount supports. No votes, followers,….
+- [LogNorm](https://lognorm.com) - LogNorm ranks your site's SEO and AI-visibility backlog and hands it to AI agents like Claude Code, Codex and Cursor through MCP.
 
 ## 🤖 AI Agents & Assistants
 

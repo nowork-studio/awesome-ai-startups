@@ -746,6 +746,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hyrax AI](https://hyrax.dev) - Autonomous code review and fixing for engineering teams.
 - [CodeSpotlight](https://plugins.jetbrains.com/plugin/34323-codespotlight) - CodeSpotlight makes selected code visually stand out in IntelliJ IDEA with customizable animated effects.
 - [Jev State](https://jev-state.vercel.app) - Build and test conversational workflows with Jev.
+- [Agent QA](https://github.com/vostride/agent-qa) - Agent QA runs natural-language web and mobile tests with self-healing execution.
 - [Harness Manager](https://harnessmanager.devmesh.xyz) - Harness Manager is the App Store and control center for AI coding harnesses on Mac.
 - [Floot](https://floot.com) - Floot Connector plugs Floot into Claude and ChatGPT, so you can describe an app in the chat you already use and get a real full-stack app back with a database, user logins, and a live URL.
 - [Jango](https://usejango.com) - Jango lets you test the parts of your app that need more than one person.

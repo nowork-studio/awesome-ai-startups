@@ -12,7 +12,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [💻 Coding & Developer Tools](#coding-developer-tools) (354)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (103)
 - [🎬 Video & Animation](#video-animation) (99)
-- [🎨 Image, Design & 3D](#image-design-3d) (117)
+- [🎨 Image, Design & 3D](#image-design-3d) (118)
 - [✍️ Writing & Content](#writing-content) (69)
 - [📊 Analytics & Data](#analytics-data) (96)
 - [🗂 Productivity & Notes](#productivity-notes) (286)
@@ -1094,6 +1094,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Claude Imagine](https://claudeimagine.com) - Claude Imagine is a web app for AI image generation, image editing and video creation.
 - [AI Image Generator](https://imgstyler.com) - Generate, restyle, and edit AI images with GPT Image 2 and Nano Banana prompts, reference images, and reusable styles in one studio.
 - [Art4](https://art4.app) - Do you like Monet’s gardens or Van Gogh’s skies?.
+- [Maquete.ai](https://maquete.ai) - AI rendering for architects that turns SketchUp, Revit, and Rhino screenshots into photorealistic interior and exterior renders.
 
 ## ✍️ Writing & Content
 

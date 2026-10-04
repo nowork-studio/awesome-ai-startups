@@ -407,6 +407,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yedric.ai](https://www.yedric.ai) - Your users shouldn't have to learn where every feature lives.
 - [Cue by Manus](https://cue.im) - Whatever life brings, your personal agents on Cue handle it — each with its own email, phone number, wallet and computer to get real work done.
 - [ZooWork](https://zoowork.ai) - ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API.
+- [Syl](https://www.usesyl.com) - Build a team of AI teammates that research, write and organise your work, with shared conversations, memory and scheduled routines.
 
 ## 💻 Coding & Developer Tools
 

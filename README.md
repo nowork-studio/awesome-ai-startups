@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (171)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (197)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (345)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (98)
-- [🎬 Video & Animation](#video-animation) (91)
-- [🎨 Image, Design & 3D](#image-design-3d) (110)
-- [✍️ Writing & Content](#writing-content) (67)
-- [📊 Analytics & Data](#analytics-data) (94)
-- [🗂 Productivity & Notes](#productivity-notes) (275)
-- [🔎 Search & Discovery](#search-discovery) (48)
-- [🎓 Education & Learning](#education-learning) (43)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (176)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (201)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (354)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (103)
+- [🎬 Video & Animation](#video-animation) (99)
+- [🎨 Image, Design & 3D](#image-design-3d) (117)
+- [✍️ Writing & Content](#writing-content) (69)
+- [📊 Analytics & Data](#analytics-data) (96)
+- [🗂 Productivity & Notes](#productivity-notes) (286)
+- [🔎 Search & Discovery](#search-discovery) (49)
+- [🎓 Education & Learning](#education-learning) (47)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (51)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (164)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (35)
-- [👥 Social & Community](#social-community) (30)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (20)
-- [✨ Everything Else](#everything-else) (131)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (52)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (171)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (41)
+- [👥 Social & Community](#social-community) (31)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (21)
+- [✨ Everything Else](#everything-else) (136)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -199,6 +199,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Okara](https://okara.ai) - Okara is an AI CMO.
 - [SaleSmartly](https://www.salesmartly.com/en) - SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace.
 - [AIProductAds](https://aiproductads.app) - Marketing managers and online store operators can turn to AIProductAds to generate commercial video ads and product visuals.
+- [ZenABM](https://zenabm.com/ai) - Ditch copy-pasting into Campaign Manager!.
+- [Get-Seen.Live](https://get-seen.live) - Get-Seen.Live is a public product leaderboard where your payment determines your rank. Submit a product or X handle, choose an amount, and claim the rank that amount supports. No votes, followers,….
+- [BlooTrue: Free Review Widgets](https://www.blootrue.com) - BlooTrue offers free review widgets and no-code website widgets, an Elfsight alternative.
+- [Prefer](https://tryprefer.com) - AEO should not be another dashboard.
 - [LLM Pulse](https://llmpulse.ai) - All-in-one AI search platform that tracks your brand's visibility, mentions and citations across ChatGPT, Perplexity, Gemini and Google AI Overviews, and measures the traffic AI drives.
 
 ## 🤖 AI Agents & Assistants
@@ -400,6 +404,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Solid](https://solid.tech) - Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for.
 - [NOAN](https://getnoan.com) - Build & automate your business with NOAN's AI knowledge system.
 - [Jev AI — AI for clearer decisions](https://jevai2.com) - Jev AI turns context, constraints, and choices into a clear recommendation—with the reasoning to back it up.
+- [Timeless](https://www.timeless.day) - The first platform where your conversations build your agents.
+- [Yedric.ai](https://www.yedric.ai) - Your users shouldn't have to learn where every feature lives.
+- [Cue by Manus](https://cue.im) - Whatever life brings, your personal agents on Cue handle it — each with its own email, phone number, wallet and computer to get real work done.
+- [ZooWork](https://zoowork.ai) - ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API.
 
 ## 💻 Coding & Developer Tools
 
@@ -749,6 +757,15 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AI Agent Skills](https://aiagentskills.net) - Developers working in terminal environments can leverage AI Agent Skills to identify reusable skills for their assistants.
 - [Harness Router](https://harness-router.vercel.app) - Harness Router is a decision layer for AI coding agents that makes tool selection faster, cheaper, and more reliable before execution.
 - [CybeDefend](https://cybedefend.com) - CybeDefend secures the code your AI agent writes, from inside the agent.
+- [Starlie](https://starlie.app) - Starlie is for the Jira work you do every day: find an issue, see what’s going on, update it, leave a comment, move it across the board, and get back to work.
+- [statusbar](https://statusbar.vrypan.net) - A status bar for any terminal.
+- [Polylane](https://polylane.com) - Nobody should be on call.
+- [Open Inspector](https://patlf.github.io/open-inspector/) - A free, open-source browser extension for inspecting layout, styles, colour, type and assets on any page, and exporting its design tokens.
+- [Agent Activity](https://le-max-app.com/apps/agent-activity/) - See what your AI coding agents are doing behind the scene: every session, build, test run and screenshot, live and per agent.
+- [LuauCheck](https://luaucheck.com) - LuauCheck turns one sentence into a Roblox Luau script and shows exactly where to place it in Studio.
+- [Sente](https://teai.io/sente-en) - A coding agent you can talk to — in your terminal or on your phone.
+- [Thinking Orbs](https://www.thinkingorbs.com) - A React component library of animated AI agent status orbs.
+- [Blume](https://useblume.dev) - Ship beautiful, fast, AI-ready documentation from plain markdown.
 
 ## 🎙 Audio, Voice & Music
 
@@ -850,6 +867,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [The 101 Plays Itself](https://jayjudah.com/101/) - A live Caltrans traffic camera on the US-101 in Studio City, playing itself as music in your browser.
 - [Speechka](https://speechka.io) - Speak naturally.
 - [SOUND](https://www.cplofmngs.com/sound) - macOS has one volume slider and no equalizer.
+- [GeminiTTS](https://geminitts.app) - GeminiTTS is an online text-to-speech studio powered by Gemini 3.8 TTS. Choose Gemini 3.8 Flash for expressive delivery or Flash Lite for faster drafts, pick from 30 preset voices, and generate….
+- [Eleven v4 and Eleven v4 Turbo](https://elevenlabs.io/v4) - Meet Eleven v4 and Eleven v4 Turbo by ElevenLabs, their most expressive models yet, with Turbo built for real-time use.
+- [Famulor](https://www.famulor.io) - Deploy AI voice agents that answer every inbound call, run outbound campaigns, and follow up over WhatsApp, email and SMS.
+- [FoundrRadio](https://foundrradio.live) - FoundrRadio is an internet radio platform where founders could own their own radio stations and go on air.
+- [AISongsGenerator](https://aisongsgenerator.com) - AISongsGenerator is a browser-based AI music toolkit for creators and musicians.
 
 ## 🎬 Video & Animation
 
@@ -944,6 +966,14 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PixVerse R2](https://world.pixverse.video/home/) - PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips.
 - [MiniMax H3](https://minimaxh3.art) - Powered by the Hailuo 3.0 model, MiniMax H3 functions as a streamlined video studio for modern creators. It delivers native 2K resolution video paired with synchronized audio, ensuring high visual….
 - [FlashVSR](https://flashvsr.com) - FlashVSR is an online AI video super-resolution tool.
+- [Arsaze](https://www.arsaze.com) - Arsaze is the AI video editor for agents and humans — think Cursor for video editing.
+- [MiniMax H3 - Create 2K AI Videos from Te](https://minimax-h3.com) - Create 4–15 second videos with MiniMax H3 from text, frames, and multimodal references.
+- [Soutine Seedance Prompt Library](https://soutine.ai/seedance-prompts) - 66 Seedance video prompts with real clip previews; copy shot language or run it in Soutine.
+- [Syllaby AI Avatar 2.0](https://syllaby.io/features/avatars-2-0/) - Turn a script or simple idea into a complete presenter-led video with a realistic AI avatar, natural voice, B-roll and subtitles—without hiring actors.
+- [MacCam](https://maccam.app) - MacCam is a free, native camera app for macOS.
+- [LaunchReel](https://launchreel.firstfoot.dev) - LaunchReel is a Claude Code plugin that makes your videos: launch films and demos for your real product, written as code from your repo, and talking-head reels cut from your raw recordings.
+- [Smooth Recorder](https://smoothrecorder.com) - Smooth Recorder is a native Mac app for demos and tutorials.
+- [Lyric Video Maker](https://lyricvideomaker.app) - Lyric Video Maker helps musicians and creators turn songs into synchronized lyric videos.
 
 ## 🎨 Image, Design & 3D
 
@@ -1058,6 +1088,13 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [EditTextInImage](https://edittextinimage.com) - EditTextInImage changes text inside finished PNG, JPEG, or WebP images without Photoshop.
 - [Soutine AI](https://soutine.ai) - Soutine AI is an image and video creation workspace with large free prompt libraries.
 - [ImageSplit](https://imagesplit.net) - ImageSplit is a free online image splitter that divides any photo into equal tiles for Instagram, posters, and print.
+- [Imejis.io](https://www.imejis.io/agents) - Your AI agent writes the copy.
+- [Soutine Qwen Image 2.1 Prompts](https://soutine.ai/qwen-image-2-1-prompts) - Free Qwen Image 2.1 prompt examples with a copy-ready workflow for testing composition, style, and edits.
+- [Soutine Nano Banana Prompts](https://soutine.ai/banana-prompts) - 1,400+ free Nano Banana (Gemini) image prompts with real previews; browse, copy, or try them in Soutine.
+- [Anthroposcaper](https://anthroposcaper.ru/en/) - Draw a 2D plan in the browser or import a DXF, then tag its faces and lines.
+- [Claude Imagine](https://claudeimagine.com) - Claude Imagine is a web app for AI image generation, image editing and video creation.
+- [AI Image Generator](https://imgstyler.com) - Generate, restyle, and edit AI images with GPT Image 2 and Nano Banana prompts, reference images, and reusable styles in one studio.
+- [Art4](https://art4.app) - Do you like Monet’s gardens or Van Gogh’s skies?.
 
 ## ✍️ Writing & Content
 
@@ -1128,6 +1165,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ToneBird](https://tonebird.ai) - ToneBird is an AI reply assistant for Mac and Windows.
 - [ShroomPen](https://shroompen.mycelsystem.com) - ShroomPen is a privacy-first browser writing assistant that lets you instantly reply, rewrite, fix grammar, or translate text across any website without sending sensitive data to the cloud.
 - [Lattice](https://lattice.aryy.in) - Lattice reshapes your text through multiple language paths, creating a fresh expression while preserving the original idea.
+- [Vitra.ai](https://vitra.ai) - Stop switching tools!.
+- [MangaTranslate](https://www.mangatranslate.com/ko/) - MangaTranslate is an enterprise-grade manga reader and translator: batch and custom translation for individuals, a full online Photoshop editor and API for studios, all languages supported.
 
 ## 📊 Analytics & Data
 
@@ -1226,6 +1265,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pinlytix · Pinterest analytics dashboard](https://pinlytix.com) - Pinterest analytics dashboard that helps creators, bloggers and digital product sellers rank, compare and understand their performance.
 - [Anomalo](https://www.anomalo.com/anomalo-analyst/) - Your data changes constantly.
 - [Statable Analytics](https://statable.com) - Statable is web analytics built for humans and AI agents.
+- [Engine Room Media](https://engineroommedia.com) - Built for Creator growth, Engine Room brings all of your platform analytics, media kit, and rate cards together in one easy to use dashboard.
+- [Would you pay?](https://iwouldpay.dev) - Most side projects fail quietly: months of building, then nobody pays.
 
 ## 🗂 Productivity & Notes
 
@@ -1504,6 +1545,17 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ryu Journal](https://www.tryryu.com) - Ryu means "flow" in Japanese.
 - [Stash](https://stashformac.com) - Stash gives your Mac hidden controls that feel like they’ve always belonged there.
 - [Vitals ](https://vitalsmac.com) - Activity Monitor lists a thousand processes, a hundred of them called Google Chrome Helper.
+- [Semos.ai Manager Agents](https://semos.ai) - Manager Agents learn from your meetings, then point you to what needs your attention next: the feedback that is overdue, the recognition you missed, the conflict you are avoiding, the growth talk….
+- [LUCI Desktop](https://luci.memories.ai) - Luci saves your screen history and meeting transcripts locally, so agents like Claude Code, Cursor and Codex can help you find a page you forgot to bookmark or recall a decision from a call.
+- [NotchMind](https://notchmind.com) - NotchMind turns your MacBook notch into a home for music, files, clipboard history, timers, downloads and 28 everyday tools.
+- [Bracket](https://www.use-bracket.com) - Bracket connects to the tools your business already runs on — Gmail, Slack, Figma and GitHub — and turns conversations, updates and meeting notes into a living business memory.
+- [FileOnTap](https://fileontap.com) - FileOnTap — free browser-local File Converter for images and PDFs in the tab; no upload, no account.
+- [Crowny!](https://crowny.lol) - Crowny is the best dynamic notch app for MacBook: manag Ai Agents, music, timers, your calendar, reminders, clipboard, files, games and water reminders live in the notch, one glance up.
+- [WattMate](https://wattmateapp.com) - WattMate sits in the Mac menu bar and shows which app is draining the battery right now, in watts, and how many minutes you get back if you quit it.
+- [una mano](https://unamanokeyboard.com) - una mano moves a familiar QWERTY keyboard left, centre, or right when a hand is busy.
+- [Notchware](https://ballmac.com/notchware) - That notch at the top of your MacBook does nothing.
+- [Calnio](https://calnio.myroslavrepin.com) - Calnio syncs Notion tasks and Apple Calendar both ways, real iCloud events with alerts, not a read-only webcal feed.
+- [WikiFix for Confluence](https://wikifix.ai) - WikiFix monitors your KB for issues like contradicting pages, duplicates and orphans, and fixes them in one click once you approve, so your team can trust what it reads or hears from AI.
 
 ## 🔎 Search & Discovery
 
@@ -1555,6 +1607,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AI Tool Finder](https://aitoolfinder.org) - AI Tool Finder helps users discover and compare free AI tools across writing, image, video, coding, and productivity use cases.
 - [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
 - [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
+- [America.gov](https://america.gov) - America.gov is the simplest, fastest way to get information from the U.S. government. Instead of hunting across agency websites, just ask a question in plain language and get a clear answer. Built….
 
 ## 🎓 Education & Learning
 
@@ -1602,6 +1655,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [YABAI](https://yabai-app.pages.dev) - Textbooks teach Japanese that stops at the classroom door.
 - [Keet](https://trykeet.com) - Learn anything with interactive video courses on any topic.
 - [Storytailor®](https://www.storytailor.com) - Storytailor helps families, educators and care teams turn children’s ideas and original drawings into recurring characters and illustrated stories.
+- [Curie](https://www.curieai.tech) - Curie is an AI research assistant built for real scientific work, not a generalist chatbot.
+- [Teachoo](https://teachoo.ai) - Teachoo helps students work through homework one question at a time.
+- [Gauth](https://www.gauth.com) - Gauth is an all-in-one AI study platform, purpose-built for education.
+- [SubmitSense](https://aiturnitinchecker.com) - SubmitSense helps students and researchers check AI writing and similarity before submission.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1700,6 +1757,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Creem](https://www.creem.io) - CREEM is the money platform for the AI building era: sell software and digital products globally, with payments, taxes, payouts, affiliates and usage billing handled for you.
 - [ApplySeed](https://applyseed.com) - Raise money from accelerators and programs that give you a clear Yes or NO, instead of another “let’s keep in touch.” Bring what you already have: a deck, your notes, or use our prompt with….
 - [Bleetz Network](https://bleetz.network) - Fundraising is broken.
+- [Supertake](https://supertake.com) - Supertake transforms your unique takes on the world into real, shareable investment portfolios using frontier AI and trading agents.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1867,6 +1925,13 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opencontroller by lyzr](https://www.lyzr.ai/opencontroller/) - AI agents are sprawling across clouds, SaaS tools, Kubernetes, and devices, with no common layer to govern them.
 - [Maximem Synap](https://maximem.ai/synap/) - Maximem Synap is memory and context infrastructure for AI agents, so every conversation does not start from zero.
 - [Eclatira](https://eclatira.com) - Plug real-time conversational video AI into any application.
+- [Hopscotch AI](https://www.hopscotchlabs.ai) - Access 500+ AI models from OpenAI, Anthropic, Google, and more through one API.
+- [iFixAi](https://www.ifixai.ai) - iFixAi is an independent auditor helping companies assess whether they can trust their AI agents.
+- [Directus](https://directus.io) - The Modern Data Stack 🐰 Monospace is the governed API layer for every app, person, and agent.
+- [JarvisCore](https://jarviscore.developers.prescottdata.io) - JarvisCore is a runtime where AI agents operate as a fleet of equal peers.
+- [Octri.dev](https://octri.dev) - Upload an OpenAPI spec and Octri generates a fully customizable documentation site, high-quality client SDKs in ten languages (TypeScript, Python, Go, Rust, Ruby, PHP, Java, Kotlin, Swift, Dart)….
+- [opensend.cc](https://opensend.cc) - opensend.cc is an open source email platform that runs on your server. It sends through your own AWS account, so your domain, your data and your sender reputation stay yours. You get a REST API….
+- [CoreSpeed](https://corespeed.io) - CoreSpeed is an operating system for agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -1905,6 +1970,12 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ChatHop](https://chathop.tech) - Move your AI conversation to another assistant mid-thought, context included.
 - [ProductBridge](https://productbridge.io) - Most teams run a helpdesk, a feedback board and a survey tool, then copy between them all week.
 - [IntellAgents.io](https://intellagents.io) - Most businesses juggle a different tool for every channel — one for phone support, another for WhatsApp, another for the website chatbot.
+- [JevGPT](https://curata.com/jevgpt) - For years we've used LLMs built to write text to make choices.
+- [Chat.sh](https://chat.sh) - 🎉 Launch day only: $200 off any lifetime deal with code PHLAUNCH ($399 → $199, $799 → $599).
+- [Communicate](https://communicate.so) - Build AI support agents from your help docs, files, and past replies.
+- [Deskcord.chat](https://deskcord.chat) - Turn Discord into your support desk and chat with your customers.
+- [miso.com](https://www.miso.com) - Stop opening 20 tabs to book a trip.
+- [Sellio](https://sellio.chat) - AI customer support in one shared inbox: live chat, WhatsApp, Instagram, Telegram, and email.
 
 ## 👥 Social & Community
 
@@ -1938,6 +2009,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nepotism Network](https://nepotism.network) - Someone you know knows someone you wish you knew.
 - [PostSider](https://postsider.com) - PostSider is a social media publishing platform built for humans and AI agents.
 - [MakerMap](https://www.makermap.lol) - MakerMap is a living map of the maker world.
+- [Capybara Court](https://capybara-court.web.app) - Two people answer the same four questions about a small dispute.
 
 ## 🛒 E-commerce & Retail
 
@@ -1961,6 +2033,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fit Receipt](https://nude-virtual-showroom.vercel.app/fitting-room) - Try on lingerie virtually; every pick has an AI judgment receipt.
 - [Psst](https://getpsst.app) - Psst is a shared shopping list.
 - [ProductShot AI](https://productshotai.app) - Retailers managing storefronts on Amazon, Etsy, and Shopify can deploy ProductShot AI to generate multiple listing images from a single upload.
+- [Keepp](https://keepp.link) - Keepp gives you one page at keepp.link/yourname with your links, a shop with Stripe checkout, a booking calendar and forms. Free to start, and the money from a sale goes to your own Stripe….
 
 ## ✨ Everything Else
 
@@ -2095,6 +2168,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moxo AI - Hardware & Software Innovation](https://moxoai.com) - AI-powered workflow automation platform for teams using Moxo AI.
 - [10xJoy](https://10xjoy.com) - Meet Joy, your free AI business matchmaker.
 - [Kleanly](https://haidernawaz8.gumroad.com/l/tiyffv) - Kleanly lives in your MacBook's notch.
+- [Gladys Assistant](http://gladysassistant.com) - A privacy-first, open-source home assistant powered by a #RaspberryPi.
+- [Pokébinder](https://pokebinder.xyz) - A free binder planner for Pokémon TCG collectors.
+- [Phare C1®](https://www.pharelabs.com) - Phare C1 is a smoke alarm that sounds for actual emergencies and nothing else.
+- [Bambu Lab R1](https://bambulab.com/en-us/r1) - Bambu Lab R1 is a 55W CO2 laser cutter built around automation.
+- [FeelMyMac](https://feelmymac.thehighjack.it) - FeelMyMac brings haptic textures to cursor movement and scrolling on Mac trackpads.
 
 ## Contributing
 

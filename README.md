@@ -7,7 +7,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (175)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (176)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (201)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (354)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (103)
@@ -203,6 +203,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Get-Seen.Live](https://get-seen.live) - Get-Seen.Live is a public product leaderboard where your payment determines your rank. Submit a product or X handle, choose an amount, and claim the rank that amount supports. No votes, followers,….
 - [BlooTrue: Free Review Widgets](https://www.blootrue.com) - BlooTrue offers free review widgets and no-code website widgets, an Elfsight alternative.
 - [Prefer](https://tryprefer.com) - AEO should not be another dashboard.
+- [LLM Pulse](https://llmpulse.ai) - All-in-one AI search platform that tracks your brand's visibility, mentions and citations across ChatGPT, Perplexity, Gemini and Google AI Overviews, and measures the traffic AI drives.
 
 ## 🤖 AI Agents & Assistants
 

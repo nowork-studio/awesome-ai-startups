@@ -1166,6 +1166,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lattice](https://lattice.aryy.in) - Lattice reshapes your text through multiple language paths, creating a fresh expression while preserving the original idea.
 - [Vitra.ai](https://vitra.ai) - Stop switching tools!.
 - [MangaTranslate](https://www.mangatranslate.com/ko/) - MangaTranslate is an enterprise-grade manga reader and translator: batch and custom translation for individuals, a full online Photoshop editor and API for studios, all languages supported.
+- [AI eBook Pro](https://aiebookpro.com) - Turn one sentence into a complete eBook with chapters, a cover and PDF, EPUB and DOCX files; read the whole book before you pay.
 
 ## 📊 Analytics & Data
 

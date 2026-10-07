@@ -1630,6 +1630,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
 - [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
 - [America.gov](https://america.gov) - America.gov is the simplest, fastest way to get information from the U.S. government. Instead of hunting across agency websites, just ask a question in plain language and get a clear answer. Built….
+- [FalcoScan](https://falcoscan.com) - Find AI tools and see which markets are crowded or open, across 7,000+ products in 29 markets.
 
 ## 🎓 Education & Learning
 

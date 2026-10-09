@@ -1009,6 +1009,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 🎨 Image, Design & 3D
 
+- [LivePair AI](https://livepairai.com) - AI image and video generation across 80+ models with private mode and agent APIs (MCP, OpenAPI, x402).
+
 - [Embedful](https://embedful.io) - Embedful turns analytics into a feature your customers can see and interact with.
 - [Roll](https://getroll.app) - Roll is a mobile camera app that works like a disposable: you get 12 shots per roll, and when you’re done you choose when your photos.
 - [Bitgrain](https://bitgrain.diptanshumahish.in/?utm=producthunt) - The first Beta version of Bitgrain & Bitgrain Studio is here!

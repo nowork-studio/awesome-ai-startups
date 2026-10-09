@@ -782,6 +782,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rill Browser](https://rill.love) - Rill is an AI-native browser built around the Claude Code and Codex you already use.
 - [BotBus](https://botbus.io/en/) - BotBus connects local coding agents to your phone.
 - [NOVA](https://nova.bridgeye.com) - Every developer knows the loop: write code, run it, it breaks, paste the error into ChatGPT, fix, repeat.
+- [Massvai](https://massvai.com) - AI agent that builds full-stack Next.js apps from a prompt, with live preview, Supabase setup, GitHub sync and one-click Vercel deploy.
 
 ## 🎙 Audio, Voice & Music
 

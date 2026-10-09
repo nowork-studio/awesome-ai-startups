@@ -995,6 +995,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Video Upscaler](https://videoupscaler.video) - Video Upscaler is an online AI video enhancer for creators and restoration work.
 - [Griffin by Tavus](https://www.tavus.io/griffin) - Griffin is Tavus’s Human Interaction Model for face-to-face, real-time conversation.
 - [Kling 4.0](https://kling4.org) - Kling 4.0 is a browser-based AI video generator. Write a prompt or upload an image and it produces short, cinematic clips with natural motion, useful for social posts, ads and concept previews.
+- [Sora2 Hub](https://sora2hub.org) - Web app for generating AI videos and images with several models, including Veo 3.1, Kling 3.0, Seedance 2.0, Hailuo, Nano Banana Pro and GPT Image 2, on one credit balance.
 
 ## 🎨 Image, Design & 3D
 

@@ -1135,6 +1135,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sharpniq](https://unblurimage.me) - Sharpniq is an online AI tool for sharpening blurry photos.
 - [Odyssey 3](https://odyssey.systems/meet-odyssey-3) - Odyssey-3 is a foundation world model that generates interactive environments from a prompt and predicts in real time how they change as you or an agent act in them.
 - [3dlogoai](https://3dlogoai.com) - Generate 3D or 2D logos from your company name or slogan.
+- [ImageCraft Pro](https://nanobanana.live) - A browser-based AI image editor for creating and refining images with Nano Banana technology.
 
 ## ✍️ Writing & Content
 

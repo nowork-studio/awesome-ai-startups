@@ -214,6 +214,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentSDR](https://agentsdr.ai) - The open-source AI SDR workspace that replaces Clay, Smartlead, HubSpot, and many more.
 - [OneLence](https://onelence.com) - OneLence helps small marketing teams find growth opportunities across SEO, GEO, paid social and affiliate marketing, understand what to do next, and improve marketing efficiency without increasing….
 - [Growth Bounties](https://growthbounties.com) - Growth Bounties is a marketplace for outcome-based growth.
+- [TeleTraff](https://teletraff.com/en) - TeleTraff is a browser panel for Telegram promotion and advertising: AI comments on channel posts, AI dialogs that take leads from the first reply to payment, inviting, DM campaigns and audience parsers.
 
 ## 🤖 AI Agents & Assistants
 

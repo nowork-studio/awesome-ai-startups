@@ -1770,6 +1770,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rhem Labs](https://rhem.ai) - Aging at home has a visibility problem.
 - [hairforge](https://beardstyles.co) - hairforge helps users compare beard styles, understand face-shape fit, and preview grooming directions before committing to a new look.
 - [LoreTypes](https://loretypes.com) - Free self-discovery quizzes: aura color, archetype, moral alignment, color season, spirit animal and past life.
+- [Healify](https://www.healify.ai) - Free AI health coach for nutrition, fitness, sleep and daily habits.
 
 ## 💰 Finance, Crypto & Payments
 

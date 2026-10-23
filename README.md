@@ -1006,6 +1006,14 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Refs](https://refs.video) - Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt.
 - [Visemix](https://lipsync.vip) - Visemix creates AI lip sync videos and talking photos using authorized audio, recording or text.
 - [AI Zombie](https://ai-zombie.com) - AI Zombie (ai-zombie.com) makes the viral zombie trend video, the "zombie hug" love story, from two photos. Add one photo of each person or pet and choose who turns. You get a 15-second MP4 with….
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video AI studio (not affiliated with xAI or X); free trial available.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video. Paid from $7.99 one-time. Not affiliated with Riot Games or K/DA.
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack. Paid from $7.99 one-time. Unofficial.
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove). Paid from $7.99 one-time.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
+- [Bad Times AI](https://badtimesai.dev) - Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
+
 
 ## 🎨 Image, Design & 3D
 
@@ -1135,6 +1143,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sharpniq](https://unblurimage.me) - Sharpniq is an online AI tool for sharpening blurry photos.
 - [Odyssey 3](https://odyssey.systems/meet-odyssey-3) - Odyssey-3 is a foundation world model that generates interactive environments from a prompt and predicts in real time how they change as you or an agent act in them.
 - [3dlogoai](https://3dlogoai.com) - Generate 3D or 2D logos from your company name or slogan.
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery and AI image/video generator with a prompt library; core use free, signup credits, no card required.
+- [TeslaWraps](https://teslawraps.design) - Browser tool to design Tesla Paint Shop-style wraps; core editor free without an account, paid AI credits optional.
+
 
 ## ✍️ Writing & Content
 

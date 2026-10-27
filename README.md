@@ -1665,6 +1665,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Notify.domains](https://notify.domains) - Most people who want a specific domain name have no way to know when a real opportunity to acquire it appears.
 - [chat-recall](https://chatrecall.dev) - Your team has done months of work with AI assistants.
 - [AI Tool Finder](https://aitoolfinder.org) - AI Tool Finder helps users discover and compare free AI tools across writing, image, video, coding, and productivity use cases.
+- [RespawnStack](https://respawnstack.com) - RespawnStack is a directory of AI tools for game development — asset generators, NPC AI, narrative tools, and more.
 - [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
 - [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
 - [America.gov](https://america.gov) - America.gov is the simplest, fastest way to get information from the U.S. government. Instead of hunting across agency websites, just ask a question in plain language and get a clear answer. Built….

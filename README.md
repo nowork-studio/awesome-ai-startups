@@ -422,6 +422,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenBot](https://openbot.run) - OpenBot is an open-source workspace for AI teammates.
 - [OpenSwarm](https://openswarm.info) - Stop bolting AI onto your computer.
 - [OpenCharm](https://opencharm.dev) - OpenCharm is an open-source body for the AI agent you already run, right by your Mac's notch.
+- [SwiftCall](https://swiftcall.org/ai-agents) - AI agents for small businesses that answer and qualify calls, book appointments and follow up on leads.
 
 ## 💻 Coding & Developer Tools
 

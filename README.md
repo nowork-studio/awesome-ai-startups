@@ -899,6 +899,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 🎬 Video & Animation
 
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Real-time AI face swap, try-on, and restyle on webcam video, with browser preview and a desktop virtual camera for OBS and video calls.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, outfit try-on, and restyle for webcam video, in the browser or as a virtual camera for OBS and video calls.
 - [Velo](https://www.usevelo.ai) - Velo turns your raw screen recordings into watch-worthy, ready-to-share videos with AI.
 - [Portt](https://portt.app) - Become part of history.
 - [Urbned](https://urbned.com) - Building stablecoin-native cross-border financial rails for immigrants, freelancers, global workforce and businesses.

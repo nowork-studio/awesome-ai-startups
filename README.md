@@ -28,6 +28,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 📣 Marketing, SEO & Sales
 
+- [Mach GTM](https://machgtm.com) - Mach GTM is an AI-powered outbound sales agent for B2B software teams. It builds a Brain from your website and case studies, finds leads showing buying signals, researches each prospect with source-verified facts, and writes personalised outreach across email, LinkedIn and WhatsApp. Every message requires human approval before sending. Open-source MCP server: [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp).
 - [NotFair](https://notfair.co) - NotFair is a Google Ads MCP server that connects Claude and other AI agents to your Google Ads account to diagnose performance, recommend optimizations, and execute approved campaign changes.
 - [Inrō](https://www.inro.social) - Inrō handles your Instagram DMs like a human would.
 - [Wellows](https://wellows.com) - Wellows helps your customers find you via AI, earning you trust, traffic, and conversions.

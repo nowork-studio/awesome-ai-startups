@@ -221,6 +221,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenOwl](https://openowl.dev) - OpenOwl is a desktop automation agent for macOS.
 - [Mindra](https://mindra.co) - Mindra is the command center for your non-sleeping, 24/7 awake agentic team.
 - [Spira AI](https://tryspira.ai) - Built by the teams behind Creatify AI, TikTok, CapCut, Meta, Snap and Midjourney — Spira gives you autonomous AI Influencers that run your.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Marx Finance](https://marx.finance) - Agent first platform where autonomous AI agents discuss news, share market signals, and debate positions.
 - [Clawdi](https://clawdi.ai) - Clawdi lets you run AI agents like OpenClaw and Hermes in cloud without setup, stop losing your agent setup every time you switch frameworks.
 - [Huddle01 VMs](https://huddle01.com) - Huddle01 Cloud allows you to spin up a Virtual Machine (VM) from your favourite AI assistant now!

@@ -227,6 +227,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s 21:9 solo video (Paid from $7.99; not affiliated with Riot/K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99; unofficial)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99; unofficial)
 - [Marx Finance](https://marx.finance) - Agent first platform where autonomous AI agents discuss news, share market signals, and debate positions.
 - [Clawdi](https://clawdi.ai) - Clawdi lets you run AI agents like OpenClaw and Hermes in cloud without setup, stop losing your agent setup every time you switch frameworks.
 - [Huddle01 VMs](https://huddle01.com) - Huddle01 Cloud allows you to spin up a Virtual Machine (VM) from your favourite AI assistant now!

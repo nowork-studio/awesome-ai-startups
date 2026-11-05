@@ -11,7 +11,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (197)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (345)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (98)
-- [🎬 Video & Animation](#video-animation) (91)
+- [🎬 Video & Animation](#video-animation) (92)
 - [🎨 Image, Design & 3D](#image-design-3d) (110)
 - [✍️ Writing & Content](#writing-content) (67)
 - [📊 Analytics & Data](#analytics-data) (94)
@@ -943,6 +943,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PixVerse R2](https://world.pixverse.video/home/) - PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips.
 - [MiniMax H3](https://minimaxh3.art) - Powered by the Hailuo 3.0 model, MiniMax H3 functions as a streamlined video studio for modern creators. It delivers native 2K resolution video paired with synchronized audio, ensuring high visual….
 - [FlashVSR](https://flashvsr.com) - FlashVSR is an online AI video super-resolution tool.
+- [RemakeThat](https://remakethat.com) - Link a winning TikTok or Facebook video and RemakeThat writes an original script and renders a faceless version starring your AI creator, for affiliate sellers.
 
 ## 🎨 Image, Design & 3D
 

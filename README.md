@@ -93,6 +93,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ploy.ai](https://ploy.ai) - Ploy is an agentic marketing platform that powers all your digital channels, starting with your website.
 - [Jesse](https://agentjesse.ai) - Sales teams have been stuck with stale databases for 15 years.
 - [Honestly](https://usehonestly.com) - Honestly surfaces real conversations about your product from across social media, verifies they're authentic, and turns them into insights you can act on in minutes.
+- [More Good Reviews](https://moregoodreviews.com) - More Good Reviews automates timed email/SMS review requests, syncs Google & Facebook reviews, drafts AI replies, and showcases feedback with widgets and MCP for local businesses and agencies.
 - [TryPost.it](https://trypost.it) - Use TryPost to plan, create, and schedule your social media in one place, so you can post everywhere, consistently.
 - [uwait](https://www.uwait.co) - Every time you use ChatGPT or Claude, you wait.
 - [FollowEngine](https://followengine.com) - FollowEngine is a software for brand monitoring and competitive intelligence, tracking marketing activities across digital channels.

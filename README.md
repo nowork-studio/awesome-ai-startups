@@ -2054,6 +2054,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [miso.com](https://www.miso.com) - Stop opening 20 tabs to book a trip.
 - [Sellio](https://sellio.chat) - AI customer support in one shared inbox: live chat, WhatsApp, Instagram, Telegram, and email.
 - [Kimi K2 Chat](https://kimi-k2.net) - kimi-k2.net is an independent browser-based chat service for Kimi models, using the Moonshot AI API for AI processing. Sign in with Google and new accounts get 2 free conversations for questions,….
+- [plumcut](https://plumcut.com) - Builds and runs an AI automation system on WhatsApp and other customer channels that answers, sells, books, and shows owners what customers want.
 
 ## 👥 Social & Community
 

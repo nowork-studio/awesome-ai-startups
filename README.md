@@ -1211,6 +1211,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Jarq](https://jarq.app) - Translate, shorten, fix or rewrite any text right where your cursor is — in any app on Mac.
 - [Cosmic](https://www.cosmicjs.com) - Cosmic is an AI-native managed headless CMS for content teams.
 - [Markdoc](https://markdoc.app) - Write Markdown with the source and an editable preview side by side, live for everyone in the document.
+- [Prompt Generator](https://trypromptgenerator.com) - Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more.
 
 ## 📊 Analytics & Data
 

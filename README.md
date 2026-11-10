@@ -789,6 +789,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenPilot](https://openpilot.in) - OpenPilot is a free, MIT-licensed desktop AI agent.
 - [Staffcoder](https://www.staffcoder.com) - Staffcoder is a hands-on coding platform where developers practice real engineering work instead of algorithm puzzles.
 - [Together Link](https://www.together.ai/link) - Together Link connects coding agents to open models on Together AI, letting developers keep their existing tools and workflows while reducing model costs.
+- [Imagera Code](https://imagera.ai/code) - MIT-licensed terminal coding agent with 276 coding models and one weekly usage limit instead of 3-hour lockouts.
 
 ## 🎙 Audio, Voice & Music
 

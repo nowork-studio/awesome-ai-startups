@@ -1827,6 +1827,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supertake](https://supertake.com) - Supertake transforms your unique takes on the world into real, shareable investment portfolios using frontier AI and trading agents.
 - [Chargebee](http://chargebee.com) - Adopt new pricing models — tiered, volume, stairstep, usage-based, flat-fee, or any custom model, without outgrowing your billing system.
 - [FirstPass Memo](https://firstpassmemo.com) - FirstPass Memo is a free red-flag checker for people buying a small online business: SaaS, content sites, ecommerce, apps.
+- [AlphaYou](https://alphayou.net) - AlphaYou tracks insider trades, 13F funds and top Hyperliquid traders in one app, with copy trading and an AI plugin for ChatGPT and Claude.
 
 ## 🛠 APIs, SDKs & Infrastructure
 

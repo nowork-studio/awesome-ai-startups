@@ -215,7 +215,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OneLence](https://onelence.com) - OneLence helps small marketing teams find growth opportunities across SEO, GEO, paid social and affiliate marketing, understand what to do next, and improve marketing efficiency without increasing….
 - [Growth Bounties](https://growthbounties.com) - Growth Bounties is a marketplace for outcome-based growth.
 - [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) - Free Claude Code plugin to audit sites, check links, group keywords, and plan content.
-- [Revenue Scout](https://revenuescout.ai) - Finds public posts that match what you sell and helps you draft replies.
+- [Revenue Scout](https://revenuescout.ai) - Sales Prospecting Assistant that finds public posts that match what you sell and helps you draft replies.
 
 ## 🤖 AI Agents & Assistants
 

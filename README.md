@@ -897,6 +897,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AISongsGenerator](https://aisongsgenerator.com) - AISongsGenerator is a browser-based AI music toolkit for creators and musicians.
 - [Off the Record](https://weirdmachines.ai/off-the-record) - Off the Record reshapes your voice in real time so people can understand you while AI notetakers and hidden interview copilots struggle to transcribe it.
 
+- [No Stairs Please](https://nostairsplease.com) - Live-music venue directory and MCP server connecting touring bands with small-stage booking contacts across all 50 US states.
+
 ## 🎬 Video & Animation
 
 - [Velo](https://www.usevelo.ai) - Velo turns your raw screen recordings into watch-worthy, ready-to-share videos with AI.

@@ -896,6 +896,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FoundrRadio](https://foundrradio.live) - FoundrRadio is an internet radio platform where founders could own their own radio stations and go on air.
 - [AISongsGenerator](https://aisongsgenerator.com) - AISongsGenerator is a browser-based AI music toolkit for creators and musicians.
 - [Off the Record](https://weirdmachines.ai/off-the-record) - Off the Record reshapes your voice in real time so people can understand you while AI notetakers and hidden interview copilots struggle to transcribe it.
+- [BeatMusic](https://beatmusic.ai) - BeatMusic is an AI music generator that turns a text idea or your lyrics into full songs with vocals.
 
 ## 🎬 Video & Animation
 
@@ -1006,6 +1007,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Refs](https://refs.video) - Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt.
 - [Visemix](https://lipsync.vip) - Visemix creates AI lip sync videos and talking photos using authorized audio, recording or text.
 - [AI Zombie](https://ai-zombie.com) - AI Zombie (ai-zombie.com) makes the viral zombie trend video, the "zombie hug" love story, from two photos. Add one photo of each person or pet and choose who turns. You get a 15-second MP4 with….
+- [BeatMV](https://beatmv.ai) - BeatMV is an AI music video generator that turns any song into a music video that moves with the beat.
 
 ## 🎨 Image, Design & 3D
 

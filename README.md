@@ -1723,6 +1723,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Coddy](https://coddy.tech/partner/ProductHunt) - Coddy teaches you to code with short, interactive lessons you actually finish.
 - [ParakeetAI](https://www.parakeet-ai.com) - Your real-time AI interview help.
 - [ChickyTutor.com](https://chickytutor.com) - AI voice tutor for speaking practice.
+- [ModuMath](https://math.hjinlabs.com/) - Explains the step where a student gets stuck on a math problem and generates a related exercise.
 
 ## 🩺 Health, Fitness & Wellness
 

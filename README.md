@@ -789,6 +789,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenPilot](https://openpilot.in) - OpenPilot is a free, MIT-licensed desktop AI agent.
 - [Staffcoder](https://www.staffcoder.com) - Staffcoder is a hands-on coding platform where developers practice real engineering work instead of algorithm puzzles.
 - [Together Link](https://www.together.ai/link) - Together Link connects coding agents to open models on Together AI, letting developers keep their existing tools and workflows while reducing model costs.
+- [VibeShield](https://vibe-checker.appwrite.network/) - Pre-launch 6-phase security auditor and 50-skill AI coding agent pack for Lovable, Bolt, Cursor, Next.js, Supabase, and Firebase apps, plus open 2026 startup infrastructure benchmarks.
 
 ## 🎙 Audio, Voice & Music
 

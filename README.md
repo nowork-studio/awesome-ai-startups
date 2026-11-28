@@ -2009,6 +2009,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opposable](https://getopposable.com) - Opposable lets Claude Code, Codex or any MCP agent see, tap and type on a real iPhone or Android phone, in every app you're signed into.
 - [Pine Computer](https://pinecomputer.io) - Pine Computer is a cloud computer built for AI to use.
 - [Busabase](https://busabase.com) - Different agents.
+- [LurkAPI](https://lurkapi.com) - Social media data API and MCP server that gives AI agents live posts, profiles, ads and transcripts from 16 platforms.
 
 ## 💬 Chatbots & Conversational
 

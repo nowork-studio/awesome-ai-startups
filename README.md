@@ -896,6 +896,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FoundrRadio](https://foundrradio.live) - FoundrRadio is an internet radio platform where founders could own their own radio stations and go on air.
 - [AISongsGenerator](https://aisongsgenerator.com) - AISongsGenerator is a browser-based AI music toolkit for creators and musicians.
 - [Off the Record](https://weirdmachines.ai/off-the-record) - Off the Record reshapes your voice in real time so people can understand you while AI notetakers and hidden interview copilots struggle to transcribe it.
+- [echo99](https://www.echo99.app/) - Private Mac call recorder with on-device transcription and speaker labeling.
 
 ## 🎬 Video & Animation
 

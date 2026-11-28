@@ -425,6 +425,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 💻 Coding & Developer Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [Ovren](https://www.ovren.ai) - Every team has a backlog full of tasks that never make it into a sprint.
 - [Croct](https://croct.com) - Croct is a conversion optimization platform that includes a user profile explorer, audience segmentation, content personalization, AB.
 - [SigmaMind AI](https://sigmamind.ai) - SigmaMind AI is a YC-backed conversational AI platform that lets you build, test, and deploy voice, chat, and email agents for sales and.

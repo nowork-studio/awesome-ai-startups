@@ -1770,6 +1770,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rhem Labs](https://rhem.ai) - Aging at home has a visibility problem.
 - [hairforge](https://beardstyles.co) - hairforge helps users compare beard styles, understand face-shape fit, and preview grooming directions before committing to a new look.
 - [LoreTypes](https://loretypes.com) - Free self-discovery quizzes: aura color, archetype, moral alignment, color season, spirit animal and past life.
+- [Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571) - AI wellness companion for iOS to talk things through, track your mood and breathe, in English or Vietnamese.
 
 ## 💰 Finance, Crypto & Payments
 

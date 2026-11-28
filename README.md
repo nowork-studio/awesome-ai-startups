@@ -1006,6 +1006,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Refs](https://refs.video) - Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt.
 - [Visemix](https://lipsync.vip) - Visemix creates AI lip sync videos and talking photos using authorized audio, recording or text.
 - [AI Zombie](https://ai-zombie.com) - AI Zombie (ai-zombie.com) makes the viral zombie trend video, the "zombie hug" love story, from two photos. Add one photo of each person or pet and choose who turns. You get a 15-second MP4 with….
+- [Skeleton AI](https://skeletonai.org/) - AI tool for skeleton-narrator explainer shorts; video generation requires credits.
 
 ## 🎨 Image, Design & 3D
 

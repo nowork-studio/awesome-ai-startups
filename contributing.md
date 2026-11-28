@@ -3,6 +3,10 @@
 Pull requests are welcome. This list is for AI products built by independent
 founders and small teams.
 
+## Before You Open a PR
+
+- You must star this repository with the GitHub account that opens the pull request. PRs from accounts that have not starred the repo will not be merged.
+
 ## Adding a Startup
 
 Append the entry to the end of the most relevant category section in `README.md` using this format:

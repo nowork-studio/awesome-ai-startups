@@ -214,6 +214,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentSDR](https://agentsdr.ai) - The open-source AI SDR workspace that replaces Clay, Smartlead, HubSpot, and many more.
 - [OneLence](https://onelence.com) - OneLence helps small marketing teams find growth opportunities across SEO, GEO, paid social and affiliate marketing, understand what to do next, and improve marketing efficiency without increasing….
 - [Growth Bounties](https://growthbounties.com) - Growth Bounties is a marketplace for outcome-based growth.
+- [Vaneform](https://vaneform.com) - Free website traffic estimates, traffic sources, and growth leaderboards for any public domain.
 
 ## 🤖 AI Agents & Assistants
 

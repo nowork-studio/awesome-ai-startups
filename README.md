@@ -1314,6 +1314,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CirclePanel](https://circlepanel.com) - Circle Panel is An End To End AI-native UX Research platform for Plan, Recruit, Analyze User research Studies.
 - [DailyHelm](https://dailyhelm.com) - DailyHelm is an AI business reviewer for founders and growth teams.
 - [Databench by Alkera](https://alkera.ai) - Databench by Alkera is the open-source, multiplayer workspace for data science, analytics, and engineering.
+- [EarlyLore](https://earlylore.com) - Free-tier research workspace for founders to study SaaS products, revenue signals, and competitor changes.
 
 ## 🗂 Productivity & Notes
 

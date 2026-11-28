@@ -20,7 +20,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🎓 Education & Learning](#education-learning) (50)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (44)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (54)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (179)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (180)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (42)
 - [👥 Social & Community](#social-community) (33)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (22)
@@ -2009,6 +2009,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opposable](https://getopposable.com) - Opposable lets Claude Code, Codex or any MCP agent see, tap and type on a real iPhone or Android phone, in every app you're signed into.
 - [Pine Computer](https://pinecomputer.io) - Pine Computer is a cloud computer built for AI to use.
 - [Busabase](https://busabase.com) - Different agents.
+- [CurlShot](https://curlshot.com) - Screenshot API with an MCP server, so apps and AI agents can turn any URL, HTML or Markdown into a PNG, PDF or video.
 
 ## 💬 Chatbots & Conversational
 

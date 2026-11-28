@@ -7,7 +7,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (186)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (187)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (205)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (363)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (104)
@@ -214,6 +214,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentSDR](https://agentsdr.ai) - The open-source AI SDR workspace that replaces Clay, Smartlead, HubSpot, and many more.
 - [OneLence](https://onelence.com) - OneLence helps small marketing teams find growth opportunities across SEO, GEO, paid social and affiliate marketing, understand what to do next, and improve marketing efficiency without increasing….
 - [Growth Bounties](https://growthbounties.com) - Growth Bounties is a marketplace for outcome-based growth.
+- [MessGEO](https://messgeo.com/) - MessGEO tracks how brands appear in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with daily prompt tracking and share of voice.
 
 ## 🤖 AI Agents & Assistants
 

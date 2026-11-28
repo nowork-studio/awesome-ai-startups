@@ -1669,6 +1669,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
 - [America.gov](https://america.gov) - America.gov is the simplest, fastest way to get information from the U.S. government. Instead of hunting across agency websites, just ask a question in plain language and get a clear answer. Built….
 - [Rental Car Ready](https://rentalcarready.com) - Rental Car Ready helps travelers check rental-car requirements by airport and company before pickup.
+- [CareJobs.Now](https://carejobs.now) - Free AI job search for US healthcare workers that matches plain-language descriptions to 170,000+ open hospital and clinic jobs with posted pay.
 
 ## 🎓 Education & Learning
 

@@ -906,6 +906,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tell](https://trytell.app) - Native macOS app that transforms system stats into interactive 3D objects.
 - [Creator OS](https://usecreator.app) - AI thumbnails, video pipeline, brand deals, pitch pack, analytics & integrations — the all-in-one platform for YouTube, Instagram & Twitch.
 - [KREV](https://www.krev.ai) - KREV helps ecommerce brands turn a single product image into product photos, video ads, and launch-ready creative.
+- [Photoshoot](https://photoshoot.app) - AI product photography for e-commerce: turn product photos and fashion references into studio-grade product shots and model imagery. Free trial.
 - [LaunchCut](https://apps.apple.com/us/app/launchcut/id6761860365) - This is an interactive demo builder that leverages the Xcode simulator directly from macOS.
 - [Screen Studio](https://screen.studio) - Screen Studio makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and.
 - [Jupitrr AI](https://jupitrr.com) - Jupitrr AI is the all-in-one video marketing platform for businesses.

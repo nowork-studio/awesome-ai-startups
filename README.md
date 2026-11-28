@@ -2260,6 +2260,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Paw-Paw](https://paw-paw.pet) - A small illustrated animal sits in the corner of your Mac's screen, reacts as you type and click, and naps when you pause.
 - [Equipment Rental Software](https://www.equipmentrentalsoftware.io) - Equipment Rental Software helps rental businesses manage equipment, inventory, bookings, payments, customers, and maintenance in one place.
 
+## 🛠 APIs, SDKs & Infrastructure
+
+- [Nitro Translate](https://nitrotranslate.com) — Human translation API. AI agents can autonomously call and pay for translations via the Machine Payments Protocol (MPP).
+
 ## Contributing
 
 See [contributing.md](contributing.md) for guidelines on submitting a startup.

@@ -1248,7 +1248,6 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nugget AI](https://nggt.ai) - Nugget AI turns customer interviews into product evidence.
 - [Forsy](https://forsy.ai) - Forsy captures workflow data from the agents you already use (OpenClaw, Claude, Codex, Hermes, etc.) and turns it into sellable structured data. It creates a marketplace for authentic,….
 - [Fred - The User Research Shepherd](https://meet-fred.com) - Fred streamlines the entire UX research workflow from planning to actionable insights.
-- [EarlyLore](https://earlylore.com) - Free-tier research workspace for founders to study SaaS products, revenue signals, and competitor changes.
 - [Databerry](https://www.databerry.app) - Track revenue, analytics, meetings, and more from a single dashboard.
 - [Supaboard AI](https://supaboard.ai) - Ask questions in plain English.
 - [DodoForm](https://www.dodoform.com) - Voice, photos, messy notes — DodoForm turns however people communicate into clean structured data.
@@ -1315,6 +1314,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CirclePanel](https://circlepanel.com) - Circle Panel is An End To End AI-native UX Research platform for Plan, Recruit, Analyze User research Studies.
 - [DailyHelm](https://dailyhelm.com) - DailyHelm is an AI business reviewer for founders and growth teams.
 - [Databench by Alkera](https://alkera.ai) - Databench by Alkera is the open-source, multiplayer workspace for data science, analytics, and engineering.
+- [EarlyLore](https://earlylore.com) - Free-tier research workspace for founders to study SaaS products, revenue signals, and competitor changes.
 
 ## 🗂 Productivity & Notes
 

@@ -2009,6 +2009,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opposable](https://getopposable.com) - Opposable lets Claude Code, Codex or any MCP agent see, tap and type on a real iPhone or Android phone, in every app you're signed into.
 - [Pine Computer](https://pinecomputer.io) - Pine Computer is a cloud computer built for AI to use.
 - [Busabase](https://busabase.com) - Different agents.
+- [ReadGZH](https://readgzh.site) - An AI-ready reader and API gateway that turns WeChat Official Account articles into clean, citeable Markdown.
 
 ## 💬 Chatbots & Conversational
 

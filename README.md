@@ -899,6 +899,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 🎬 Video & Animation
 
+- [makeaicreator](https://makeaicreator.com) - Design a consistent AI influencer from a plain-language persona and generate photos, voiced videos, and script-split long videos you own outright.
 - [Velo](https://www.usevelo.ai) - Velo turns your raw screen recordings into watch-worthy, ready-to-share videos with AI.
 - [Portt](https://portt.app) - Become part of history.
 - [Urbned](https://urbned.com) - Building stablecoin-native cross-border financial rails for immigrants, freelancers, global workforce and businesses.

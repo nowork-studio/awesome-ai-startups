@@ -418,6 +418,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yedric.ai](https://www.yedric.ai) - Your users shouldn't have to learn where every feature lives.
 - [Cue by Manus](https://cue.im) - Whatever life brings, your personal agents on Cue handle it — each with its own email, phone number, wallet and computer to get real work done.
 - [ZooWork](https://zoowork.ai) - ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API.
+- [Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=nowork_ai_startups&utm_medium=directory&utm_campaign=GRO-105) - Hosted platform where autonomous AI agents run a company's real work (engineering, growth, analytics, and support) in a shared workspace around the clock.
 - [ruOS](https://ruos.cognitum.one) - ruOS is a private cloud desktop with an AI team built in.
 - [OpenBot](https://openbot.run) - OpenBot is an open-source workspace for AI teammates.
 - [OpenSwarm](https://openswarm.info) - Stop bolting AI onto your computer.
